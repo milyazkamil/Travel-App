@@ -1,0 +1,2103 @@
+[
+    {
+        "city": {
+            "name": "Andorra",
+            "unit": "Euro",
+            "symbol": "€",
+            "population": 77265,
+            "capital": "Andorra la Vella",
+            "region": "Southern Europe",
+            "message": "Andorra has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Andorra.",
+            "languages": [
+                "Catalan"
+            ],
+            "googleMaps": "https://goo.gl/maps/JqAnacWE2qEznKgw7",
+            "flag": {
+                "png": "https://flagcdn.com/w320/ad.png"
+
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "United Arab Emirates",
+            "unit": "Dirham",
+            "symbol": "د.إ",
+            "population": 9890400,
+            "capital": "Abu Dhabi",
+            "region": "Western Asia",
+            "message": "United Arab Emirates has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to United Arab Emirates.",
+            "languages": [
+                "Arabic"
+            ],
+            "googleMaps": "https://goo.gl/maps/AZZTDA6GzVAnKMVd8",
+            "flag": {
+                "png": "https://flagcdn.com/w320/ae.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Afghanistan",
+            "unit": "Afghani",
+            "symbol": "؋",
+            "population": 40218234,
+            "capital": "Kabul",
+            "region": "Southern Asia",
+            "message": "Afghanistan has a current risk level of 5 (out of 5). We advise: It is not safe to travel Afghanistan.",
+            "languages": [
+                "Dari",
+                "Pashto"
+            ],
+            "googleMaps": "https://goo.gl/maps/BXBGw7yUUFknCfva9",
+            "flag": {
+                "png": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Anguilla",
+            "unit": "Dollar",
+            "symbol": "$",
+            "population": 13452,
+            "capital": "The Valley",
+            "region": "Caribbean",
+          "message": "Anguilla has a current risk level of 2.5 (out of 5). We advise: Use some caution when travelling Anguilla.",
+            "languages": [
+                "English"
+            ],
+            "googleMaps": "https://goo.gl/maps/3KgLnEyN7amdno2p9",
+            "flag": {
+                "png": "https://flagcdn.com/w320/ai.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Albania",
+            "unit": "Lek",
+            "symbol": "L",
+            "population": 2837743,
+            "capital": "Tirana",
+            "region": "Southeast Europe",
+          "message": "Albania has a current risk level of 3.6 (out of 5). We advise: Please reconsider your need to travel to Albania.",
+            "languages": [
+                "Albanian"
+            ],
+            "googleMaps": "https://goo.gl/maps/BzN9cTuj68ZA8SyZ8",
+            "flag": {
+                "png": "https://flagcdn.com/w320/al.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Armenia",
+            "unit": "Dram",
+            "symbol": "֏",
+            "population": 2963234,
+            "capital": "Yerevan",
+            "region": "Western Asia",
+            "message": "Armenia has a current risk level of 3.2 (out of 5). We advise: Use some caution when travelling Armenia.",
+            "languages": [
+                "Armenian",
+                "Russian"
+            ],
+            "googleMaps": "https://goo.gl/maps/azWUtK9bUQYEyccbA",
+            "flag": {
+                "png": "https://flagcdn.com/w320/am.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Angola",
+            "unit": "Kwanza",
+            "symbol": "Kz",
+            "population": 32866268,
+            "capital": "Luanda",
+            "region": "Middle Africa",
+            "message": "Angola has a current risk level of 2.8 (out of 5). We advise: Use some caution when travelling Angola.",
+            "languages": [
+                "Portuguese"
+            ],
+            "googleMaps": "https://goo.gl/maps/q42Qbf1BmQL3fuZg9",
+            "flag": {
+                "png": "https://flagcdn.com/w320/ao.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Argentina",
+            "unit": "Peso",
+            "symbol": "$",
+            "population": 45376763,
+            "capital": "Buenos Aires",
+            "region": "South America",
+            "message": "Argentina has a current risk level of 3.2 (out of 5). We advise: Use some caution when travelling Argentina.",
+            "languages": [
+                "Guaraní",
+                "Spanish"
+            ],
+            "googleMaps": "https://goo.gl/maps/Z9DXNxhf2o93kvyc6",
+            "flag": {
+                "png": "https://flagcdn.com/w320/ar.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Austria",
+            "unit": "Euro",
+            "symbol": "€",
+            "population": 8917205,
+            "capital": "Vienna",
+            "region": "Central Europe",
+            "message": "Austria has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Austria.",
+            "languages": [
+                "Austro-Bavarian German"
+            ],
+            "googleMaps": "https://goo.gl/maps/pCWpWQhznHyRzQcu9",
+            "flag": {
+                "png": "https://flagcdn.com/w320/at.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Australia",
+            "unit": "Dollar",
+            "symbol": "$",
+            "population": 25687041,
+            "capital": "Canberra",
+            "region": "Australia",
+            "message": "Australia has a current risk level of 2.3 (out of 5). We advise: Travelling Australia is (relatively) safe.",
+            "languages": [
+                "English"
+            ],
+            "googleMaps": "https://goo.gl/maps/DcjaDa7UbhnZTndH6",
+            "flag": {
+                "png": "https://flagcdn.com/w320/au.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Aruba",
+            "unit": "Florin",
+            "symbol": "ƒ",
+            "population": 106766,
+            "capital": "Oranjestad",
+            "region": "Caribbean",
+            "message": "Aruba has a current risk level of 1 (out of 5). We advise: Travelling Aruba is (relatively) safe.",
+            "languages": [
+                "Dutch",
+                "Papiamento"
+            ],
+            "googleMaps": "https://goo.gl/maps/8hopbQqifHAgyZyg8",
+            "flag": {
+                "png": "https://flagcdn.com/w320/aw.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Azerbaijan",
+            "unit": "Manat",
+            "symbol": "₼",
+            "population": 10110116,
+            "capital": "Baku",
+            "region": "Western Asia",
+            "message": "Azerbaijan has a current risk level of 3.6 (out of 5). We advise: Please reconsider your need to travel to Azerbaijan.",
+            "languages": [
+                "Azerbaijani",
+                "Russian"
+            ],
+            "googleMaps": "https://goo.gl/maps/az3Zz7ar2aoB9AUc6",
+            "flag": {
+                "png": "https://flagcdn.com/w320/az.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Bosnia and Herzegovina",
+            "unit": "Convertible Mark",
+            "symbol": "KM",
+            "population": 3280815,
+            "capital": "Sarajevo",
+            "region": "Southeast Europe",
+            "message": "Bosnia and Herzegovina has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to Bosnia and Herzegovina.",
+            "languages": [
+                "Bosnian",
+                "Croatian"
+            ],
+            "googleMaps": "https://www.google.com/maps/place/Bosnia+and+Herzegovina",
+            "flag": {
+                "png": "https://flagcdn.com/w320/ba.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Barbados",
+            "unit": "Dollar",
+            "symbol": "$",
+            "population": 287371,
+            "capital": "Bridgetown",
+            "region": "Caribbean",
+            "message": "Barbados has a current risk level of 2.3 (out of 5). We advise: Travelling Barbados is (relatively) safe.",
+            "languages": [
+                "English"
+            ],
+            "googleMaps": "https://goo.gl/maps/2m36v8STvbGAWd9c7",
+            "flag": {
+                "png": "https://flagcdn.com/w320/bb.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Bangladesh",
+            "unit": "Taka",
+            "symbol": "৳",
+            "population": 164689383,
+            "capital": "Dhaka",
+            "region": "Southern Asia",
+            "message": "Bangladesh has a current risk level of 3.4 (out of 5). We advise: Use some caution when travelling Bangladesh.",
+            "languages": [
+                "Bengali"
+            ],
+            "googleMaps": "https://goo.gl/maps/op6gmLbHcvv6rLhH6",
+            "flag": {
+                "png": "https://flagcdn.com/w320/bd.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Belgium",
+            "unit": "Euro",
+            "symbol": "€",
+            "population": 11555997,
+            "capital": "Brussels",
+            "region": "Western Europe",
+            "message": "Belgium has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Belgium.",
+            "languages": [
+                "German",
+                "French"
+            ],
+            "googleMaps": "https://goo.gl/maps/UQQzat85TCtPRXAL8",
+            "flag": {
+                "png": "https://flagcdn.com/w320/be.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Bulgaria",
+            "unit": "Lev",
+            "symbol": "лв",
+            "population": 6927288,
+            "capital": "Sofia",
+            "region": "Southeast Europe",
+            "message": "Bulgaria has a current risk level of 2.8 (out of 5). We advise: Use some caution when travelling Bulgaria.",
+            "languages": [
+                "Bulgarian"
+            ],
+            "googleMaps": "https://goo.gl/maps/F5uAhDGWzc3BrHfm9",
+            "flag": {
+                "png": "https://flagcdn.com/w320/bg.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Bahrain",
+            "unit": "Dinar",
+            "symbol": ".د.ب",
+            "population": 1701583,
+            "capital": "Manama",
+            "region": "Western Asia",
+            "message": "Bahrain has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to Bahrain.",
+            "languages": [
+                "Arabic"
+            ],
+            "googleMaps": "https://goo.gl/maps/5Zue99Zc6vFBHxzJ7",
+            "flag": {
+                "png": "https://flagcdn.com/w320/bh.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Burundi",
+            "unit": "Franc",
+            "symbol": "Fr",
+            "population": 11890781,
+            "capital": "Gitega",
+            "region": "Eastern Africa",
+            "message": "Burundi has a current risk level of 4.6 (out of 5). We advise: It is not safe to travel Burundi.",
+            "languages": [
+                "French",
+                "Kirundi"
+            ],
+            "googleMaps": "https://goo.gl/maps/RXPWoRrB9tfrJpUG7",
+            "flag": {
+                "png": "https://flagcdn.com/w320/bi.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Bermuda",
+            "unit": "Dollar",
+            "symbol": "$",
+            "population": 63903,
+            "capital": "Hamilton",
+            "region": "North America",
+            "message": "Bermuda has a current risk level of 2.5 (out of 5). We advise: Use some caution when travelling Bermuda.",
+            "languages": [
+                "English"
+            ],
+            "googleMaps": "https://goo.gl/maps/NLsRGNjTzDghTtAJA",
+            "flag": {
+                "png": "https://flagcdn.com/w320/bm.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Brunei",
+            "unit": "Dollar",
+            "symbol": "$",
+            "population": 437483,
+            "capital": "Bandar Seri Begawan",
+            "region": "South-Eastern Asia",
+            "message": "Brunei has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Brunei.",
+            "languages": [
+                "Malay"
+            ],
+            "googleMaps": "https://goo.gl/maps/4jb4CqBXhr8vNh579",
+            "flag": {
+                "png": "https://flagcdn.com/w320/bn.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Bolivia",
+            "unit": "Boliviano",
+            "symbol": "Bs",
+            "population": 11673029,
+            "capital": "Sucre",
+            "region": "South America",
+            "message": "Bolivia has a current risk level of 3.4 (out of 5). We advise: Use some caution when travelling Bolivia.",
+            "languages": [
+                "Aymara",
+                "Guaraní"
+            ],
+            "googleMaps": "https://goo.gl/maps/9DfnyfbxNM2g5U9b9",
+            "flag": {
+                "png": "https://flagcdn.com/w320/bo.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Brazil",
+            "unit": "Real",
+            "symbol": "R$",
+            "population": 212559409,
+            "capital": "Brasília",
+            "region": "South America",
+            "message": "Brazil has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Brazil.",
+            "languages": [
+                "Portuguese"
+            ],
+            "googleMaps": "https://goo.gl/maps/waCKk21HeeqFzkNC9",
+            "flag": {
+                "png": "https://flagcdn.com/w320/br.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Bahamas",
+            "unit": "Dollar",
+            "symbol": "$",
+            "population": 393248,
+            "capital": "Nassau",
+            "region": "Caribbean",
+            "message": "Bahamas has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Bahamas.",
+            "languages": [
+                "English"
+            ],
+            "googleMaps": "https://goo.gl/maps/1YzRs1BZrG8p8pmVA",
+            "flag": {
+                "png": "https://flagcdn.com/w320/bs.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Belarus",
+            "unit": "Ruble",
+            "symbol": "Br",
+            "population": 9398861,
+            "capital": "Minsk",
+            "region": "Eastern Europe",
+            "message": "Belarus has a current risk level of 4.9 (out of 5). We advise: It is not safe to travel Belarus.",
+            "languages": [
+                "Belarusian",
+                "Russian"
+            ],
+            "googleMaps": "https://goo.gl/maps/PJUDU3EBPSszCQcu6",
+            "flag": {
+                "png": "https://flagcdn.com/w320/by.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Canada",
+            "unit": "Dollar",
+            "symbol": "$",
+            "population": 38005238,
+            "capital": "Ottawa",
+            "region": "North America",
+            "message": "Canada has a current risk level of 2.8 (out of 5). We advise: Use some caution when travelling Canada.",
+            "languages": [
+                "English",
+                "French"
+            ],
+            "googleMaps": "https://goo.gl/maps/jmEVLugreeqiZXxbA",
+            "flag": {
+                "png": "https://flagcdn.com/w320/ca.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Central African Republic",
+            "unit": "Franc",
+            "symbol": "Fr",
+            "population": 4829764,
+            "capital": "Bangui",
+            "region": "Middle Africa",
+            "message": "Central African Republic has a current risk level of 5 (out of 5). We advise: It is not safe to travel Central African Republic.",
+            "languages": [
+                "French",
+                "Sango"
+            ],
+            "googleMaps": "https://goo.gl/maps/51V8dsi2rGYC9n3c9",
+            "flag": {
+                "png": "https://flagcdn.com/w320/cf.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Switzerland",
+            "unit": "Franc",
+            "symbol": "Fr",
+            "population": 8654622,
+            "capital": "Bern",
+            "region": "Western Europe",
+            "message": "Switzerland has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Switzerland.",
+            "languages": [
+                "French",
+                "Italian"
+            ],
+            "googleMaps": "https://goo.gl/maps/uVuZcXaxSx5jLyEC9",
+            "flag": {
+                "png": "https://flagcdn.com/w320/ch.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Chile",
+            "unit": "Peso",
+            "symbol": "$",
+            "population": 19116209,
+            "capital": "Santiago",
+            "region": "South America",
+            "message": "Chile has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Chile.",
+            "languages": [
+                "Spanish"
+            ],
+            "googleMaps": "https://goo.gl/maps/XboxyNHh2fAjCPNn9",
+            "flag": {
+                "png": "https://flagcdn.com/w320/cl.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Cameroon",
+            "unit": "Franc",
+            "symbol": "Fr",
+            "population": 26545864,
+            "capital": "Yaoundé",
+            "region": "Middle Africa",
+            "message": "Cameroon has a current risk level of 3.2 (out of 5). We advise: Use some caution when travelling Cameroon.",
+            "languages": [
+                "English",
+                "French"
+            ],
+            "googleMaps": "https://goo.gl/maps/JqiipHgFboG3rBJh9",
+            "flag": {
+                "png": "https://flagcdn.com/w320/cm.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "China",
+            "unit": "Yuan",
+            "symbol": "¥",
+            "population": 1402112000,
+            "capital": "Beijing",
+            "region": "Eastern Asia",
+            "message": "China has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to China.",
+            "languages": [
+                "Chinese"
+            ],
+            "googleMaps": "https://goo.gl/maps/p9qC6vgiFRRXzvGi7",
+            "flag": {
+                "png": "https://flagcdn.com/w320/cn.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Colombia",
+            "unit": "Peso",
+            "symbol": "$",
+            "population": 50882884,
+            "capital": "Bogotá",
+            "region": "South America",
+            "message": "Colombia has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Colombia.",
+            "languages": [
+                "Spanish"
+            ],
+            "googleMaps": "https://goo.gl/maps/RdwTG8e7gPwS62oR6",
+            "flag": {
+                "png": "https://flagcdn.com/w320/co.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Costa Rica",
+            "unit": "Colón",
+            "symbol": "₡",
+            "population": 5094114,
+            "capital": "San José",
+            "region": "Central America",
+            "message": "Costa Rica has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Costa Rica.",
+            "languages": [
+                "Spanish"
+            ],
+            "googleMaps": "https://goo.gl/maps/RFiwytjvNrpfKN7k6",
+            "flag": {
+                "png": "https://flagcdn.com/w320/cr.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Cuba",
+            "unit": "Peso",
+            "symbol": "$",
+            "population": 11326616,
+            "capital": "Havana",
+            "region": "Caribbean",
+            "message": "Cuba has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Cuba.",
+            "languages": [
+                "Spanish"
+            ],
+            "googleMaps": "https://goo.gl/maps/1dDw1QfZspfMUTm99",
+            "flag": {
+                "png": "https://flagcdn.com/w320/cu.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Cyprus",
+            "unit": "Euro",
+            "symbol": "€",
+            "population": 1207361,
+            "capital": "Nicosia",
+            "region": "Southern Europe",
+            "message": "Cyprus has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Cyprus.",
+            "languages": [
+                "Turkish",
+                "Greek"
+            ],
+            "googleMaps": "https://goo.gl/maps/77hPBRdLid8yD5Bm7",
+            "flag": {
+                "png": "https://flagcdn.com/w320/cy.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Czechia",
+            "unit": "Koruna",
+            "symbol": "Kč",
+            "population": 10698896,
+            "capital": "Prague",
+            "region": "Central Europe",
+            "message": "Czech Republic has a current risk level of 3.2 (out of 5). We advise: Use some caution when travelling Czech Republic.",
+            "languages": [
+                "Czech",
+                "Slovak"
+            ],
+            "googleMaps": "https://goo.gl/maps/47dmgeXMZyhDHyQW8",
+            "flag": {
+                "png": "https://flagcdn.com/w320/cz.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Germany",
+            "unit": "Euro",
+            "symbol": "€",
+            "population": 83240525,
+            "capital": "Berlin",
+            "region": "Western Europe",
+            "message": "Germany has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Germany.",
+            "languages": [
+                "German"
+            ],
+            "googleMaps": "https://goo.gl/maps/mD9FBMq1nvXUBrkv6",
+            "flag": {
+                "png": "https://flagcdn.com/w320/de.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Denmark",
+            "unit": "Krone",
+            "symbol": "kr",
+            "population": 5831404,
+            "capital": "Copenhagen",
+            "region": "Northern Europe",
+            "message": "Denmark has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Denmark.",
+            "languages": [
+                "Danish"
+            ],
+            "googleMaps": "https://goo.gl/maps/UddGPN7hAyrtpFiT6",
+            "flag": {
+                "png": "https://flagcdn.com/w320/dk.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Dominica",
+            "unit": "Dollar",
+            "symbol": "$",
+            "population": 71991,
+            "capital": "Roseau",
+            "region": "Caribbean",
+            "message": "Dominica has a current risk level of 2.5 (out of 5). We advise: Use some caution when travelling Dominica.",
+            "languages": [
+                "English"
+            ],
+            "googleMaps": "https://goo.gl/maps/HSKdHYpFC8oHHuyV7",
+            "flag": {
+                "png": "https://flagcdn.com/w320/dm.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Ecuador",
+            "unit": "Dollar",
+            "symbol": "$",
+            "population": 17643060,
+            "capital": "Quito",
+            "region": "South America",
+            "message": "Ecuador has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Ecuador.",
+            "languages": [
+                "Spanish"
+            ],
+            "googleMaps": "https://goo.gl/maps/TbX8hUW4gcbRPZiK7",
+            "flag": {
+                "png": "https://flagcdn.com/w320/ec.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Estonia",
+            "unit": "Euro",
+            "symbol": "€",
+            "population": 1331057,
+            "capital": "Tallinn",
+            "region": "Northern Europe",
+            "message": "Estonia has a current risk level of 2.6 (out of 5). We advise: Use some caution when travelling Estonia.",
+            "languages": [
+                "Estonian"
+            ],
+            "googleMaps": "https://goo.gl/maps/6SsynwGUodL1sDvq8",
+            "flag": {
+                "png": "https://flagcdn.com/w320/ee.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Egypt",
+            "unit": "Pound",
+            "symbol": "£",
+            "population": 102334403,
+            "capital": "Cairo",
+            "region": "Northern Africa",
+            "message": "Egypt has a current risk level of 3.4 (out of 5). We advise: Use some caution when travelling Egypt.",
+            "languages": [
+                "Arabic"
+            ],
+            "googleMaps": "https://goo.gl/maps/uoDRhXbsqjG6L7VG7",
+            "flag": {
+                "png": "https://flagcdn.com/w320/eg.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Spain",
+            "unit": "Euro",
+            "symbol": "€",
+            "population": 47351567,
+            "capital": "Madrid",
+            "region": "Southern Europe",
+            "message": "Spain has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Spain.",
+            "languages": [
+                "Spanish"
+            ],
+            "googleMaps": "https://goo.gl/maps/138JaXW8EZzRVitY9",
+            "flag": {
+                "png": "https://flagcdn.com/w320/es.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Ethiopia",
+            "unit": "Birr",
+            "symbol": "Br",
+            "population": 114963583,
+            "capital": "Addis Ababa",
+            "region": "Eastern Africa",
+            "message": "Ethiopia has a current risk level of 3.6 (out of 5). We advise: Please reconsider your need to travel to Ethiopia.",
+            "languages": [
+                "Amharic"
+            ],
+            "googleMaps": "https://goo.gl/maps/2Q4hQWCbhuZLj3fG6",
+            "flag": {
+                "png": "https://flagcdn.com/w320/et.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Finland",
+            "unit": "Euro",
+            "symbol": "€",
+            "population": 5530719,
+            "capital": "Helsinki",
+            "region": "Northern Europe",
+            "message": "Finland has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Finland.",
+            "languages": [
+                "Finnish",
+                "Swedish"
+            ],
+            "googleMaps": "https://goo.gl/maps/HjgWDCNKRAYHrkMn8",
+            "flag": {
+                "png": "https://flagcdn.com/w320/fi.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "France",
+            "unit": "Euro",
+            "symbol": "€",
+            "population": 67391582,
+            "capital": "Paris",
+            "region": "Western Asia",
+            "message": "France has a current risk level of 3 (out of 5). We advise: Use some caution when travelling France.",
+            "languages": [
+                "French"
+            ],
+            "googleMaps": "https://goo.gl/maps/g7QxxSFsWyTPKuzd7",
+            "flag": {
+                "png": "https://flagcdn.com/w320/fr.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "United Kingdom",
+            "unit": "Pound",
+            "symbol": "£",
+            "population": 67215293,
+            "capital": "London",
+            "region": "Northern Europe",
+            "message": "United Kingdom has a current risk level of 3 (out of 5). We advise: Use some caution when travelling United Kingdom.",
+            "languages": [
+                "English"
+            ],
+            "googleMaps": "https://goo.gl/maps/FoDtc3UKMkFsXAjHA",
+            "flag": {
+                "png": "https://flagcdn.com/w320/gb.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Georgia",
+            "unit": "Lari",
+            "symbol": "₾",
+            "population": 3714000,
+            "capital": "Tbilisi",
+            "region": "Western Asia",
+            "message": "Georgia has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Georgia.",
+            "languages": [
+                "Georgian"
+            ],
+            "googleMaps": "https://goo.gl/maps/bvCaGBePR1ZEDK5cA",
+            "flag": {
+                "png": "https://flagcdn.com/w320/ge.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Gibraltar",
+            "unit": "Pound",
+            "symbol": "£",
+            "population": 33691,
+            "capital": "Gibraltar",
+            "region": "Southern Europe",
+            "message": "Gibraltar has a current risk level of 0 (out of 5). We advise: Travelling Gibraltar is (relatively) safe.",
+            "languages": [
+                "English"
+            ],
+            "googleMaps": "https://goo.gl/maps/CEoHAs1t6byCBhHFA",
+            "flag": {
+                "png": "https://flagcdn.com/w320/gi.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Greenland",
+            "unit": "Krone",
+            "symbol": "Kr",
+            "population": 56367,
+            "capital": "Nuuk",
+            "region": "North America",
+            "message": "Greenland has a current risk level of 0 (out of 5). We advise: Travelling Greenland is (relatively) safe.",
+            "languages": [
+                "Greenlandic"
+            ],
+            "googleMaps": "https://goo.gl/maps/j3289UPEQXt1ceSy8",
+            "flag": {
+                "png": "https://flagcdn.com/w320/gl.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Greece",
+            "unit": "Euro",
+            "symbol": "€",
+            "population": 10715549,
+            "capital": "Athens",
+            "region": "Southern Europe",
+            "message": "Greece has a current risk level of 2.8 (out of 5). We advise: Use some caution when travelling Greece.",
+            "languages": [
+                "Greek"
+            ],
+            "googleMaps": "https://goo.gl/maps/LHGcAvuRyD2iKECC6",
+            "flag": {
+                "png": "https://flagcdn.com/w320/gr.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Hong Kong",
+            "unit": "Dollar",
+            "symbol": "$",
+            "population": 7500700,
+            "capital": "City of Victoria",
+            "region": "Eastern Asia",
+            "message": "Hong Kong has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Hong Kong.",
+            "languages": [
+                "English",
+                "Chinese"
+            ],
+            "googleMaps": "https://goo.gl/maps/1sEnNmT47ffrC8MU8",
+            "flag": {
+                "png": "https://flagcdn.com/w320/hk.png"
+			}
+        }
+    },
+    
+    {
+        "city": {
+            "name": "Hungary",
+            "unit": "Forint",
+            "symbol": "Ft",
+            "population": 9749763,
+            "capital": "Budapest",
+            "region": "Central Europe",
+            "message": "Hungary has a current risk level of 2.8 (out of 5). We advise: Use some caution when travelling Hungary.",
+            "languages": [
+                "Hungarian"
+            ],
+            "googleMaps": "https://goo.gl/maps/9gfPupm5bffixiFJ6",
+            "flag": {
+                "png": "https://flagcdn.com/w320/hu.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Indonesia",
+            "unit": "Rupiah",
+            "symbol": "Rp",
+            "population": 273523621,
+            "capital": "Jakarta",
+            "region": "South-Eastern Asia",
+            "message": "Indonesia has a current risk level of 3.4 (out of 5). We advise: Use some caution when travelling Indonesia.",
+            "languages": [
+                "Indonesian"
+            ],
+            "googleMaps": "https://goo.gl/maps/9gfPupm5bffixiFJ6",
+            "flag": {
+                "png": "https://flagcdn.com/w320/id.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Ireland",
+            "unit": "Euro",
+            "symbol": "€",
+            "population": 4994724,
+            "capital": "Dublin",
+            "region": "Northern Europe",
+            "message": "Ireland has a current risk level of 2.5 (out of 5). We advise: Use some caution when travelling Ireland.",
+            "languages": [
+                "English",
+                "Irish"
+            ],
+            "googleMaps": "https://goo.gl/maps/hxd1BKxgpchStzQC6",
+            "flag": {
+                "png": "https://flagcdn.com/w320/ie.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "India",
+            "unit": "Rupee",
+            "symbol": "₹",
+            "population": 1380004385,
+            "capital": "New Delhi",
+            "region": "Southern Asia",
+            "message": "India has a current risk level of 3.4 (out of 5). We advise: Use some caution when travelling India.",
+            "languages": [
+                "English",
+                "Hindi"
+            ],
+            "googleMaps": "https://goo.gl/maps/WSk3fLwG4vtPQetp7",
+            "flag": {
+                "png": "https://flagcdn.com/w320/in.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Iraq",
+            "unit": "Dinar",
+            "symbol": "ع.د",
+            "population": 40222503,
+            "capital": "Baghdad",
+            "region": "Western Asia",
+            "message": "Iraq has a current risk level of 4.8 (out of 5). We advise: It is not safe to travel Iraq.",
+            "languages": [
+                "Arabic",
+                "Aramaic"
+            ],
+            "googleMaps": "https://goo.gl/maps/iL8Bmy1sUCW9fUk18",
+            "flag": {
+                "png": "https://flagcdn.com/w320/iq.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Iran",
+            "unit": "Rial",
+            "symbol": "﷼",
+            "population": 83992953,
+            "capital": "Tehran",
+            "region": "Southern Asia",
+            "message": "Iran has a current risk level of 4.3 (out of 5). We advise: Please reconsider your need to travel to Iran.",
+            "languages": [
+                "Persian"
+            ],
+            "googleMaps": "https://goo.gl/maps/dMgEGuacBPGYQnjY7",
+            "flag": {
+                "png": "https://flagcdn.com/w320/ir.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Iceland",
+            "unit": "Króna",
+            "symbol": "kr",
+            "population": 366425,
+            "capital": "Reykjavik",
+            "region": "Northern Europe",
+            "message": "Iceland has a current risk level of 2.8 (out of 5). We advise: Use some caution when travelling Iceland.",
+            "languages": [
+                "Icelandic"
+            ],
+            "googleMaps": "https://goo.gl/maps/WxFWSQuc3oamNxoE6",
+            "flag": {
+                "png": "https://flagcdn.com/w320/is.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Italy",
+            "unit": "Euro",
+            "symbol": "€",
+            "population": 59554023,
+            "capital": "Rome",
+            "region": "Southern Europe",
+            "message": "Italy has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Italy.",
+            "languages": [
+                "Italian"
+            ],
+            "googleMaps": "https://goo.gl/maps/8M1K27TDj7StTRTq8",
+            "flag": {
+                "png": "https://flagcdn.com/w320/it.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Jamaica",
+            "unit": "Dollar",
+            "symbol": "$",
+            "population": 2961161,
+            "capital": "Kingston",
+            "region": "Caribbean",
+            "message": "Jamaica has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Jamaica.",
+            "languages": [
+                "English",
+                "Jamaican Patois"
+            ],
+            "googleMaps": "https://goo.gl/maps/Z8mQ6jxnRQKFwJy9A",
+            "flag": {
+                "png": "https://flagcdn.com/w320/jm.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Japan",
+            "unit": "Yen",
+            "symbol": "¥",
+            "population": 125836021,
+            "capital": "Tokyo",
+            "region": "Eastern Asia",
+            "message": "Japan has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Japan.",
+            "languages": [
+                "Japanese"
+            ],
+            "googleMaps": "https://goo.gl/maps/NGTLSCSrA8bMrvnX9",
+            "flag": {
+                "png": "https://flagcdn.com/w320/jp.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Kenya",
+            "unit": "Shilling",
+            "symbol": "Sh",
+            "population": 53771300,
+            "capital": "Nairobi",
+            "region": "Eastern Africa",
+            "message": "Kenya has a current risk level of 3.1 (out of 5). We advise: Use some caution when travelling Kenya.",
+            "languages": [
+                "English",
+                "Swahili"
+            ],
+            "googleMaps": "https://goo.gl/maps/Ni9M7wcCxf8bJHLX8",
+            "flag": {
+                "png": "https://flagcdn.com/w320/ke.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Kyrgyzstan",
+            "unit": "Som",
+            "symbol": "c",
+            "population": 6591600,
+            "capital": "Bishkek",
+            "region": "Central Asia",
+            "message": "Kyrgyzstan has a current risk level of 2.3 (out of 5). We advise: Travelling Kyrgyzstan is (relatively) safe.",
+            "languages": [
+                "Kyrgyz",
+                "Russian"
+            ],
+            "googleMaps": "https://goo.gl/maps/SKG8BSMMQVvxkRkB7",
+            "flag": {
+                "png": "https://flagcdn.com/w320/kg.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "North Korea",
+            "unit": "Won",
+            "symbol": "₩",
+            "population": 25778815,
+            "capital": "Pyongyang",
+            "region": "Eastern Asia",
+            "message": "North Korea has a current risk level of 4.4 (out of 5). We advise: Please reconsider your need to travel to North Korea.",
+            "languages": [
+                "Korean"
+            ],
+            "googleMaps": "https://goo.gl/maps/9q5T2DMeH5JL7Tky6",
+            "flag": {
+                "png": "https://flagcdn.com/w320/kp.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "South Korea",
+            "unit": "Won",
+            "symbol": "₩",
+            "population": 51780579,
+            "capital": "Seoul",
+            "region": "Eastern Asia",
+            "message": "South Korea has a current risk level of 2.3 (out of 5). We advise: Travelling South Korea is (relatively) safe.",
+            "languages": [
+                "Korean"
+            ],
+            "googleMaps": "https://goo.gl/maps/7ecjaJXefjAQhxjGA",
+            "flag": {
+                "png": "https://flagcdn.com/w320/kr.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Kuwait",
+            "unit": "Dinar",
+            "symbol": "د.ك",
+            "population": 4270563,
+            "capital": "Kuwait City",
+            "region": "Western Asia",
+            "message": "Kuwait has a current risk level of 3.2 (out of 5). We advise: Use some caution when travelling Kuwait.",
+            "languages": [
+                "Arabic"
+            ],
+            "googleMaps": "https://goo.gl/maps/aqr3aNQjS1BAvksJ7",
+            "flag": {
+                "png": "https://flagcdn.com/w320/kw.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Kazakhstan",
+            "unit": "Tenge",
+            "symbol": "₸",
+            "population": 18754440,
+            "capital": "Nur-Sultan",
+            "region": "Central Asia",
+            "message": "Kazakhstan has a current risk level of 3.2 (out of 5). We advise: Use some caution when travelling Kazakhstan.",
+            "languages": [
+                "Kazakh",
+                "Russian"
+            ],
+            "googleMaps": "https://goo.gl/maps/8VohJGu7ShuzZYyeA",
+            "flag": {
+                "png": "https://flagcdn.com/w320/kz.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Lebanon",
+            "unit": "Pound",
+            "symbol": "ل.ل",
+            "population": 6825442,
+            "capital": "Beirut",
+            "region": "Western Asia",
+            "message": "Lebanon has a current risk level of 3.2 (out of 5). We advise: Use some caution when travelling Lebanon.",
+            "languages": [
+                "Arabic",
+                "French"
+            ],
+            "googleMaps": "https://goo.gl/maps/Sz5VCU8UFBqMyTdc9",
+            "flag": {
+                "png": "https://flagcdn.com/w320/lb.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Lithuania",
+            "unit": "Euro",
+            "symbol": "€",
+            "population": 2794700,
+            "capital": "Vilnius",
+            "region": "Northern Europe",
+            "message": "Lithuania has a current risk level of 2.6 (out of 5). We advise: Use some caution when travelling Lithuania.",
+            "languages": [
+                "Lithuanian"
+            ],
+            "googleMaps": "https://goo.gl/maps/dd1s9rrLjrK2G8yY6",
+            "flag": {
+                "png": "https://flagcdn.com/w320/lt.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Luxembourg",
+            "unit": "Euro",
+            "symbol": "€",
+            "population": 632275,
+            "capital": "Luxembourg",
+            "region": "Western Europe",
+            "message": "Luxembourg has a current risk level of 2.3 (out of 5). We advise: Travelling Luxembourg is (relatively) safe.",
+            "languages": [
+                "German",
+                "French"
+            ],
+            "googleMaps": "https://goo.gl/maps/L6b2AgndgHprt2Ko9",
+            "flag": {
+                "png": "https://flagcdn.com/w320/lu.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Latvia",
+            "unit": "Euro",
+            "symbol": "€",
+            "population": 1901548,
+            "capital": "Riga",
+            "region": "Northern Europe",
+            "message": "Latvia has a current risk level of 2.6 (out of 5). We advise: Use some caution when travelling Latvia.",
+            "languages": [
+                "Latvian"
+            ],
+            "googleMaps": "https://goo.gl/maps/iQpUkH7ghq31ZtXe9",
+            "flag": {
+                "png": "https://flagcdn.com/w320/lv.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Libya",
+            "unit": "Dinar",
+            "symbol": "ل.د",
+            "population": 6871287,
+            "capital": "Tripoli",
+            "region": "Northern Africa",
+            "message": "Libya has a current risk level of 5 (out of 5). We advise: It is not safe to travel Libya.",
+            "languages": [
+                "Arabic"
+            ],
+            "googleMaps": "https://goo.gl/maps/eLgGnaQWcJEdYRMy5",
+            "flag": {
+                "png": "https://flagcdn.com/w320/ly.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Monaco",
+            "unit": "Euro",
+            "symbol": "€",
+            "population": 39244,
+            "capital": "Monaco",
+            "region": "Western Europe",
+            "message": "Monaco has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Monaco.",
+            "languages": [
+                "French"
+            ],
+            "googleMaps": "https://goo.gl/maps/DGpndDot28bYdXYn7",
+            "flag": {
+                "png": "https://flagcdn.com/w320/mc.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Moldova",
+            "unit": "Leu",
+            "symbol": "L",
+            "population": 2617820,
+            "capital": "Chișinău",
+            "region": "Eastern Europe",
+            "message": "Moldova has a current risk level of 3.4 (out of 5). We advise: Use some caution when travelling Moldova.",
+            "languages": [
+                "Romanian"
+            ],
+            "googleMaps": "https://goo.gl/maps/JjmyUuULujnDeFPf7",
+            "flag": {
+                "png": "https://flagcdn.com/w320/md.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Madagascar",
+            "unit": "Ariary",
+            "symbol": "Ar",
+            "population": 27691019,
+            "capital": "Antananarivo",
+            "region": "Eastern Africa",
+            "message": "Madagascar has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Madagascar.",
+            "languages": [
+                "French",
+                "Malagasy"
+            ],
+            "googleMaps": "https://goo.gl/maps/AHQh2ABBaFW6Ngj26",
+            "flag": {
+                "png": "https://flagcdn.com/w320/mg.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Mongolia",
+            "unit": "Tögrög",
+            "symbol": "₮",
+            "population": 3278292,
+            "capital": "Ulan Bator",
+            "region": "Eastern Asia",
+            "message": "Mongolia has a current risk level of 2.8 (out of 5). We advise: Use some caution when travelling Mongolia.",
+            "languages": [
+                "Mongolian"
+            ],
+            "googleMaps": "https://goo.gl/maps/A1X7bMCKThBDNjzH6",
+            "flag": {
+                "png": "https://flagcdn.com/w320/mn.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Maldives",
+            "unit": "Rufiyaa",
+            "symbol": "ރ",
+            "population": 540542,
+            "capital": "Malé",
+            "region": "Southern Asia",
+            "message": "Maldives has a current risk level of 3.4 (out of 5). We advise: Use some caution when travelling Maldives.",
+            "languages": [
+                "Maldivian"
+            ],
+            "googleMaps": "https://goo.gl/maps/MNAWGq9vEdbZ9vUV7",
+            "flag": {
+                "png": "https://flagcdn.com/w320/mv.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Mexico",
+            "unit": "Peso",
+            "symbol": "$",
+            "population": 128932753,
+            "capital": "Mexico City",
+            "region": "North America",
+            "message": "Mexico has a current risk level of 3.6 (out of 5). We advise: Please reconsider your need to travel to Mexico.",
+            "languages": [
+                "Spanish"
+            ],
+            "googleMaps": "https://goo.gl/maps/s5g7imNPMDEePxzbA",
+            "flag": {
+                "png": "https://flagcdn.com/w320/mx.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Malaysia",
+            "unit": "Ringgit",
+            "symbol": "RM",
+            "population": 32365998,
+            "capital": "Kuala Lumpur",
+            "region": "South-Eastern Asia",
+            "message": "Malaysia has a current risk level of 2.8 (out of 5). We advise: Use some caution when travelling Malaysia.",
+            "languages": [
+                "English",
+                "Malay"
+            ],
+            "googleMaps": "https://goo.gl/maps/qrY1PNeUXGyXDcPy6",
+            "flag": {
+                "png": "https://flagcdn.com/w320/my.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Netherlands",
+            "unit": "Euro",
+            "symbol": "€",
+            "population": 16655799,
+            "capital": "Amsterdam",
+            "region": "Western Europe",
+            "message": "Netherlands has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Netherlands.",
+            "languages": [
+                "Dutch"
+            ],
+            "googleMaps": "https://goo.gl/maps/Hv6zQswGhFxoVVBm6",
+            "flag": {
+                "png": "https://flagcdn.com/w320/nl.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Norway",
+            "unit": "Krone",
+            "symbol": "kr",
+            "population": 5379475,
+            "capital": "Oslo",
+            "region": "Northern Europe",
+            "message": "Norway has a current risk level of 2.8 (out of 5). We advise: Use some caution when travelling Norway.",
+            "languages": [
+                "Nynorsk",
+                "Bokmål"
+            ],
+            "googleMaps": "https://goo.gl/maps/htWRrphA7vNgQNdSA",
+            "flag": {
+                "png": "https://flagcdn.com/w320/no.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "New Zealand",
+            "unit": "Dollar",
+            "symbol": "$",
+            "population": 5084300,
+            "capital": "Wellington",
+            "region": "Australia",
+            "message": "New Zealand has a current risk level of 3 (out of 5). We advise: Use some caution when travelling New Zealand.",
+            "languages": [
+                "English",
+                "Māori"
+            ],
+            "googleMaps": "https://goo.gl/maps/xXiDQo65dwdpw9iu8",
+            "flag": {
+                "png": "https://flagcdn.com/w320/nz.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Peru",
+            "unit": "Sol",
+            "symbol": "S/",
+            "population": 32971846,
+            "capital": "Lima",
+            "region": "South America",
+            "message": "Peru has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to Peru.",
+            "languages": [
+                "Aymara",
+                "Quechua"
+            ],
+            "googleMaps": "https://goo.gl/maps/uDWEUaXNcZTng1fP6",
+            "flag": {
+                "png": "https://flagcdn.com/w320/pe.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Philippines",
+            "unit": "Peso",
+            "symbol": "₱",
+            "population": 109581085,
+            "capital": "Manila",
+            "region": "South-Eastern Asia",
+            "message": "Philippines has a current risk level of 3.1 (out of 5). We advise: Use some caution when travelling Philippines.",
+            "languages": [
+                "English",
+                "Filipino"
+            ],
+            "googleMaps": "https://goo.gl/maps/k8T2fb5VMUfsWFX6A",
+            "flag": {
+                "png": "https://flagcdn.com/w320/ph.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Pakistan",
+            "unit": "Rupee",
+            "symbol": "₨",
+            "population": 220892331,
+            "capital": "Islamabad",
+            "region": "Southern Asia",
+            "message": "Pakistan has a current risk level of 3.8 (out of 5). We advise: Please reconsider your need to travel to Pakistan.",
+            "languages": [
+                "English",
+                "Urdu"
+            ],
+            "googleMaps": "https://goo.gl/maps/5LYujdfR5yLUXoERA",
+            "flag": {
+                "png": "https://flagcdn.com/w320/pk.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Poland",
+            "unit": "Złoty",
+            "symbol": "zł",
+            "population": 37950802,
+            "capital": "Warsaw",
+            "region": "Central Europe",
+            "message": "Poland has a current risk level of 2.8 (out of 5). We advise: Use some caution when travelling Poland.",
+            "languages": [
+                "Polish"
+            ],
+            "googleMaps": "https://goo.gl/maps/gY9Xw4Sf4415P4949",
+            "flag": {
+                "png": "https://flagcdn.com/w320/pl.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Puerto Rico",
+            "unit": "Dollar",
+            "symbol": "$",
+            "population": 3194034,
+            "capital": "San Juan",
+            "region": "Caribbean",
+            "message": "Puerto Rico has a current risk level of 4 (out of 5). We advise: Please reconsider your need to travel to Puerto Rico.",
+            "languages": [
+                "English",
+                "Spanish"
+            ],
+            "googleMaps": "https://goo.gl/maps/sygfDbtwn389wu8x5",
+            "flag": {
+                "png": "https://flagcdn.com/w320/pr.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Palestine",
+            "unit": "Pound",
+            "symbol": "E£",
+            "population": 4803269,
+            "capital": "Jerusalem",
+            "region": "Western Asia",
+            "message": "Palestine has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Palestinian Territory.",
+            "languages": [
+                "Arabic"
+            ],
+            "googleMaps": "https://goo.gl/maps/QvTbkRdmdWEoYAmt5",
+            "flag": {
+                "png": "https://flagcdn.com/w320/ps.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Portugal",
+            "unit": "Euro",
+            "symbol": "€",
+            "population": 10305564,
+            "capital": "Lisbon",
+            "region": "Southern Europe",
+            "message": "Portugal has a current risk level of 2.8 (out of 5). We advise: Use some caution when travelling Portugal.",
+            "languages": [
+                "Portuguese"
+            ],
+            "googleMaps": "https://goo.gl/maps/BaTBSyc4GWMmbAKB8",
+            "flag": {
+                "png": "https://flagcdn.com/w320/pt.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Qatar",
+            "unit": "Riyal",
+            "symbol": "ر.ق",
+            "population": 2881060,
+            "capital": "Doha",
+            "region": "Western Asia",
+            "message": "Qatar has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Qatar.",
+            "languages": [
+                "Arabic"
+            ],
+            "googleMaps": "https://goo.gl/maps/ZV76Y49z7LLUZ2KQ6",
+            "flag": {
+                "png": "https://flagcdn.com/w320/qa.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Romania",
+            "unit": "Leu",
+            "symbol": "lei",
+            "population": 19286123,
+            "capital": "Bucharest",
+            "region": "Southeast Europe",
+            "message": "Romania has a current risk level of 3.2 (out of 5). We advise: Use some caution when travelling Romania.",
+            "languages": [
+                "Romanian"
+            ],
+            "googleMaps": "https://goo.gl/maps/845hAgCf1mDkN3vr7",
+            "flag": {
+                "png": "https://flagcdn.com/w320/ro.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Russia",
+            "unit": "Ruble",
+            "symbol": "₽",
+            "population": 144104080,
+            "capital": "Moscow",
+            "region": "Eastern Europe",
+            "message": "Russia has a current risk level of 4.4 (out of 5). We advise: Please reconsider your need to travel to Russia.",
+            "languages": [
+                "Russian"
+            ],
+            "googleMaps": "https://goo.gl/maps/4F4PpDhGJgVvLby57",
+            "flag": {
+                "png": "https://flagcdn.com/w320/ru.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Saudi Arabia",
+            "unit": "Riyal",
+            "symbol": "ر.س",
+            "population": 34813867,
+            "capital": "Riyadh",
+            "region": "Western Asia",
+            "message": "Saudi Arabia has a current risk level of 3.2 (out of 5). We advise: Use some caution when travelling Saudi Arabia.",
+            "languages": [
+                "Arabic"
+            ],
+            "googleMaps": "https://goo.gl/maps/5PSjvdJ1AyaLFRrG9",
+            "flag": {
+                "png": "https://flagcdn.com/w320/sa.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Sweden",
+            "unit": "Krona",
+            "symbol": "kr",
+            "population": 10353442,
+            "capital": "Stockholm",
+            "region": "Northern Europe",
+            "message": "Sweden has a current risk level of 3.4 (out of 5). We advise: Use some caution when travelling Sweden.",
+            "languages": [
+                "Swedish"
+            ],
+            "googleMaps": "https://goo.gl/maps/iqygE491ADVgnBW39",
+            "flag": {
+                "png": "https://flagcdn.com/w320/se.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Singapore",
+            "unit": "Dollar",
+            "symbol": "$",
+            "population": 5685807,
+            "capital": "Singapore",
+            "region": "South-Eastern Asia",
+            "message": "Singapore has a current risk level of 2.8 (out of 5). We advise: Use some caution when travelling Singapore.",
+            "languages": [
+                "Chinese",
+                "English"
+            ],
+            "googleMaps": "https://goo.gl/maps/QbQt9Y9b5KFzsahV6",
+            "flag": {
+                "png": "https://flagcdn.com/w320/sg.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Slovenia",
+            "unit": "Euro",
+            "symbol": "€",
+            "population": 2100126,
+            "capital": "Ljubljana",
+            "region": "Central Europe",
+            "message": "Slovenia has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Slovenia.",
+            "languages": [
+                "Slovene"
+            ],
+            "googleMaps": "https://goo.gl/maps/7zgFmswcCJh5L5D49",
+            "flag": {
+                "png": "https://flagcdn.com/w320/si.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Slovakia",
+            "unit": "Euro",
+            "symbol": "€",
+            "population": 5458827,
+            "capital": "Bratislava",
+            "region": "Central Europe",
+            "message": "Slovakia has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Slovakia.",
+            "languages": [
+                "Slovak"
+            ],
+            "googleMaps": "https://goo.gl/maps/uNSH2wW4bLoZVYJj7",
+            "flag": {
+                "png": "https://flagcdn.com/w320/sk.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Somalia",
+            "unit": "Shilling",
+            "symbol": "Sh",
+            "population": 15893219,
+            "capital": "Mogadishu",
+            "region": "Eastern Africa",
+            "message": "Somalia has a current risk level of 5 (out of 5). We advise: It is not safe to travel Somalia.",
+            "languages": [
+                "Arabic",
+                "Somali"
+            ],
+            "googleMaps": "https://goo.gl/maps/8of8q7D1a8p7R6Fc9",
+            "flag": {
+                "png": "https://flagcdn.com/w320/so.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Syria",
+            "unit": "Pound",
+            "symbol": "£",
+            "population": 17500657,
+            "capital": "Damascus",
+            "region": "Western Asia",
+            "message": "Syria has a current risk level of 5 (out of 5). We advise: It is not safe to travel Syria.",
+            "languages": [
+                "Arabic"
+            ],
+            "googleMaps": "https://goo.gl/maps/Xe3VnFbwdb4nv2SM9",
+            "flag": {
+                "png": "https://flagcdn.com/w320/sy.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Thailand",
+            "unit": "Baht",
+            "symbol": "฿",
+            "population": 69799978,
+            "capital": "Bangkok",
+            "region": "South-Eastern Asia",
+            "message": "Thailand has a current risk level of 2.7 (out of 5). We advise: Use some caution when travelling Thailand.",
+            "languages": [
+                "Thai"
+            ],
+            "googleMaps": "https://goo.gl/maps/qeU6uqsfW4nCCwzw9",
+            "flag": {
+                "png": "https://flagcdn.com/w320/th.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Tajikistan",
+            "unit": "Somoni",
+            "symbol": "SM",
+            "population": 9537642,
+            "capital": "Dushanbe",
+            "region": "Central Asia",
+            "message": "Tajikistan has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Tajikistan.",
+            "languages": [
+                "Russian",
+                "Tajik"
+            ],
+            "googleMaps": "https://goo.gl/maps/8rQgW88jEXijhVb58",
+            "flag": {
+                "png": "https://flagcdn.com/w320/tj.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Turkmenistan",
+            "unit": "Manat",
+            "symbol": "m",
+            "population": 6031187,
+            "capital": "Ashgabat",
+            "region": "Central Asia",
+            "message": "Turkmenistan has a current risk level of 3.2 (out of 5). We advise: Use some caution when travelling Turkmenistan.",
+            "languages": [
+                "Russian",
+                "Turkmen"
+            ],
+            "googleMaps": "https://goo.gl/maps/cgfUcaQHSWKuqeKk9",
+            "flag": {
+                "png": "https://flagcdn.com/w320/tm.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Turkey",
+            "unit": "Lira",
+            "symbol": "₺",
+            "population": 84339067,
+            "capital": "Ankara",
+            "region": "Western Asia",
+            "message": "Turkey has a current risk level of 3.5 (out of 5). We advise: Please reconsider your need to travel to Turkey.",
+            "languages": [
+                "Turkish"
+            ],
+            "googleMaps": "https://goo.gl/maps/dXFFraiUDfcB6Quk6",
+            "flag": {
+                "png": "https://flagcdn.com/w320/tr.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Taiwan",
+            "unit": "Dollar",
+            "symbol": "$",
+            "population": 23503349,
+            "capital": "Taipei",
+            "region": "Eastern Asia",
+            "message": "Taiwan has a current risk level of 3.7 (out of 5). We advise: Please reconsider your need to travel to Taiwan.",
+            "languages": [
+                "Chinese"
+            ],
+            "googleMaps": "https://goo.gl/maps/HgMKFQjNadF3Wa6B6",
+            "flag": {
+                "png": "https://flagcdn.com/w320/tw.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Ukraine",
+            "unit": "Hryvnia",
+            "symbol": "₴",
+            "population": 44134693,
+            "capital": "Kyiv",
+            "region": "Eastern Europe",
+            "message": "Ukraine has a current risk level of 4.7 (out of 5). We advise: It is not safe to travel Ukraine.",
+            "languages": [
+                "Ukrainian"
+            ],
+            "googleMaps": "https://goo.gl/maps/DvgJMiPJ7aozKFZv7",
+            "flag": {
+                "png": "https://flagcdn.com/w320/ua.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "United States",
+            "unit": "Dollar",
+            "symbol": "$",
+            "population": 329484123,
+            "capital": "Washington",
+            "region": "North America",
+            "message": "United States has a current risk level of 2.7 (out of 5). We advise: Use some caution when travelling United States.",
+            "languages": [
+                "English"
+            ],
+            "googleMaps": "https://goo.gl/maps/e8M246zY4BSjkjAv6",
+            "flag": {
+                "png": "https://flagcdn.com/w320/us.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Uruguay",
+            "unit": "Peso",
+            "symbol": "$",
+            "population": 3473727,
+            "capital": "Montevideo",
+            "region": "South America",
+            "message": "Uruguay has a current risk level of 3.3 (out of 5). We advise: Use some caution when travelling Uruguay.",
+            "languages": [
+                "Spanish"
+            ],
+            "googleMaps": "https://goo.gl/maps/tiQ9Baekb1jQtDSD9",
+            "flag": {
+                "png": "https://flagcdn.com/w320/uy.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Uzbekistan",
+            "unit": "Som",
+            "symbol": "so'm",
+            "population": 34232050,
+            "capital": "Tashkent",
+            "region": "Central Asia",
+            "message": "Uzbekistan has a current risk level of 2.8 (out of 5). We advise: Use some caution when travelling Uzbekistan.",
+            "languages": [
+                "Russian",
+                "Uzbek"
+            ],
+            "googleMaps": "https://goo.gl/maps/AJpo6MjMx23qSWCz8",
+            "flag": {
+                "png": "https://flagcdn.com/w320/uz.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Vietnam",
+            "unit": "Dồng",
+            "symbol": "₫",
+            "population": 97338583,
+
+            "capital": "Hanoi",
+            "region": "South-Eastern Asia",
+            "message": "Vietnam has a current risk level of 2.7 (out of 5). We advise: Use some caution when travelling Vietnam.",
+            "languages": [
+                "Vietnamese"
+            ],
+            "googleMaps": "https://goo.gl/maps/PCpVt9WzdJ9A9nEZ9",
+            "flag": {
+                "png": "https://flagcdn.com/w320/vn.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Kosovo",
+            "unit": "Euro",
+            "symbol": "€",
+            "population": 1775378,
+
+            "capital": "Pristina",
+            "region": "Southeast Europe",
+            "message": "Kosovo has a current risk level of 3.6 (out of 5). We advise: Please reconsider your need to travel to Kosovo.",
+            "languages": [
+                "Albanian",
+                "Serbian"
+            ],
+            "googleMaps": "https://goo.gl/maps/CSC4Yc8SWPgburuD9",
+            "flag": {
+                "png": "https://flagcdn.com/w320/xk.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Yemen",
+            "unit": "Rial",
+            "symbol": "﷼",
+            "population": 29825968,
+
+            "capital": "Sana'a",
+            "region": "Western Asia",
+            "message": "Yemen has a current risk level of 5 (out of 5). We advise: It is not safe to travel Yemen.",
+            "languages": [
+                "Arabic"
+            ],
+            "googleMaps": "https://goo.gl/maps/WCmE76HKcLideQQw7",
+            "flag": {
+                "png": "https://flagcdn.com/w320/ye.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Zambia",
+            "unit": "Kwacha",
+            "symbol": "ZK",
+            "population": 18383956,
+
+            "capital": "Lusaka",
+            "region": "Eastern Africa",
+            "message": "Zambia has a current risk level of 3 (out of 5). We advise: Use some caution when travelling Zambia.",
+            "languages": [
+                "English"
+            ],
+            "googleMaps": "https://goo.gl/maps/mweBcqvW8TppZW6q9",
+            "flag": {
+                "png": "https://flagcdn.com/w320/zm.png"
+			}
+        }
+    },
+    {
+        "city": {
+            "name": "Zimbabwe",
+            "unit": "Dollar",
+            "symbol": "$",
+            "population": 14862927,
+
+            "capital": "Harare",
+            "region": "Southern Africa",
+            "message": "Zimbabwe has a current risk level of 3.2 (out of 5). We advise: Use some caution when travelling Zimbabwe.",
+            "languages": [
+                "English",
+                "Chibarwe"
+            ],
+            "googleMaps": "https://goo.gl/maps/M26BqdwQctqxXS65A",
+            "flag": {
+                "png": "https://flagcdn.com/w320/zw.png"
+			}
+        }
+    }
+]
