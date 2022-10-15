@@ -24,10 +24,40 @@ img {
     border-radius: 20px;
 }
 
+.popup {
+    width: 40vw;
+    border-radius: 10px;
+    text-align: center;
+    padding: 0 30px 30px;
+    position: absolute;
+    top: 43%;
+    left: 52%;
+    transform: translate(-50%,-50%);
+    border: 2px solid black;
+    border-top: none;
+}
+
+.popupInfo {
+    margin-bottom: 15px;
+}
+
+.popup > img {
+    width: 110px;
+    margin-top: -20%;
+    
+}
+
+.popupButton {
+    width: 90%;
+    border: 1px solid black;
+    background-color: rgb(78, 255, 47);
+    font-weight: 600;
+    border-radius: 10px;
+}
+
 .flag {
     border-radius: 0;
-    width: 15%;
-    height: 10%;
+    width: 14%;
     border-radius: 5px;
 }
 
@@ -45,6 +75,10 @@ img {
     height: 90vh;
 }
 
+.mobileLinks {
+    display: none;
+}
+
 .search-bar {
     max-height: 5vh;
 }
@@ -55,7 +89,7 @@ img {
     border-radius: 10px;
     padding-left: 15px;
     border: none;
-    /*text-transform: capitalize;*/
+    text-transform: capitalize;
     font-size: 18px;
 }
 
@@ -68,10 +102,13 @@ img {
 }
 
 .travel {
-    height: 35%;
     font-size: 50px;
     color: white;
     text-shadow: -11px 7px 7px #000000;
+}
+
+.travelDiv {
+    height: 35%;
 }
 
 .lorem {
@@ -79,7 +116,6 @@ img {
     font-size: 50px;
     color: white;
     text-shadow: -11px 7px 7px #000000;
-    
 }
 
 .mavi-bolge {
@@ -87,17 +123,24 @@ img {
 }
 
 .riskDiv {
-    margin-top: 3vh;
+    margin-top: 0;
     height: 11vh;
 }
 
-.main-resim-div {
+.loading {
+    padding: 0;
     height: 65%;
+    border-radius: 15px;
+    background: url("/images/loading.gif") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 .image {
     height: 100%;
-    background-image: url('https://source.unsplash.com/1920x1080/?istanbul');
+    background-image: url('https://source.unsplash.com/1280x720/?istanbul');
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 15px;
@@ -107,7 +150,7 @@ img {
     height: 35%;
 }
 
-.aa1 {
+.mainCells {
     width: 50%;
 }
 
@@ -126,32 +169,34 @@ img {
     color: white;
 }
 
-.bb {
+.cells {
     min-height: 40px;
 }
 
 .buton1, .buton2 {
-    position: absolute;
-    right: 45px;
-    top: 10px;
-    height: 5vh;
-    width: 4vw;
+    height: 6vh;
+    width: 5vw;
     border-radius: 10px;
     background-color: transparent;
     color: white;
     border: 4px solid white;
     filter: drop-shadow( -9px 7px 3px rgb(0 0 0));
     z-index: 100;
+    margin-bottom: 20vh;
+}
 
-
+.buton1:hover, .buton2:hover {
+    color: rgb(0, 255, 251);
+    border: 4px solid rgb(0, 255, 251);
 }
 
 .buton1, .buton2 > svg {
     font-size: 18px;
 }
 
-.about {
-    height: 100%;
+.blur {
+    height: 40%;
+    z-index: 1;
     border-radius: 20px;
     padding-top: 10px;
     background: rgba( 0, 255, 196, 0.15 );
@@ -166,7 +211,7 @@ img {
 }
 
 .map {
-    max-height: 2em;
+    max-height: 1.8em;
 }
 .icons {
     font-size: 40px;
@@ -176,6 +221,308 @@ img {
     filter: drop-shadow( -9px 7px 3px rgb(0 0 0));
 }
 
+.icons:hover, .icon:hover, .send:hover {
+    color: rgb(0, 255, 251);
+}
+
 .all-icons {
     padding-bottom: 20px;
 }
+
+@media all and (max-width: 992px) {
+    .div1 {
+        height: 12vh;
+        display: block;
+    }
+
+    .loading {
+        height: 55%;
+    }
+
+    .search {
+        width: 45vw;
+    }
+
+    .travelDiv {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .travel {
+        font-size: 40px;
+        height: 100%;
+        margin: 0;
+    }
+    
+    .lorem {
+        font-size: 30px;
+        margin: 0;
+    }
+
+    .div2 {
+        height: 75vh;
+        margin-left: 0;
+    }
+
+    .paragraf {
+        font-size: 16px;
+        color: white;
+    }
+
+    .flag {
+        width: 12%;
+    }
+
+    .map {
+        max-height: 1.5em;
+    }
+
+    .div3 {
+        display: none;
+    }
+
+    .mobileLinks {
+        display: block;
+    }
+
+    .mobileButon1, .mobileButon2 {
+        height: 2rem;
+        width: 2rem;
+        border-radius: 10px;
+        background-color: transparent;
+        color: white;
+        border: 3px solid white;
+        filter: drop-shadow( -9px 7px 3px rgb(0 0 0));
+        z-index: 100;
+    }
+
+    .mobileIcons {
+        margin-left: 5px;
+        margin-right: 5px;
+        font-size: 20px;
+        height: 2rem;
+        width: 2rem;
+        color: white;
+        filter: drop-shadow( -9px 7px 3px rgb(0 0 0));
+    }
+
+    .mobileIcons2 {
+        height: 16px;
+        width: 16px;
+    }
+
+    .mobileBlur {
+        width: 200px;
+        z-index: 1;
+        border-radius: 20px;
+        background: rgba( 0, 255, 196, 0.15 );
+        box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+        backdrop-filter: blur( 3.5px );
+        -webkit-backdrop-filter: blur( 3.5px );
+        border: 1px solid rgba( 255, 255, 255, 0.18 );
+    }
+
+    .popup {
+        margin-top: 3vh;
+        width: 60vw;
+        height: 25vh;
+    }
+
+    .warning {
+        margin: 0;
+    }
+    
+    .popupInfo {
+        margin-bottom: 5px;
+    }
+    
+    .popup > img {
+        width: 80px;
+        margin-top: -10%;
+    }
+    
+}
+
+@media all and (max-width: 750px) {
+    .popup {
+        margin-top: 5vh;
+        width: 60vw;
+        height: 30vh;
+    }
+    
+    .popupInfo {
+        margin-bottom: 5px;
+        font-size: 16px;
+    }
+    
+    .popup > img {
+        width: 80px;
+        margin-top: -10%;
+    }
+}
+
+@media all and (max-width: 550px) {
+    .div1 {
+        height: 15vh;
+    }
+
+    .search {
+        width: 55vw;
+    }
+
+    .travel {
+        font-size: 30px;
+        height: 60%;
+        margin: 0;
+    }
+    
+    .mobileBlur {
+        height: 40px;
+        width: 150px;
+    }
+    .lorem {
+        font-size: 25px;
+        margin: 0;
+    }
+
+    .div2 {
+        height: 80vh;
+    }
+
+    .paragraf {
+        font-size: 16px;
+        color: white;
+    }
+
+    .flag {
+        width: 16%;
+    }
+
+    .map {
+        max-height: 1.5em;
+    }
+
+    .div3 {
+        display: none;
+    }
+
+    .popup {
+        margin-top: 4vh;
+        width: 70vw;
+        height: 30vh;
+    }
+    
+    .popupInfo {
+        margin-bottom: 15px;
+        font-size: 16px;
+    }
+    
+    .popup > img {
+        width: 80px;
+        margin-top: -15%;
+    }
+    
+}
+
+@media all and (max-width: 410px) {
+    .div1 {
+        height: 12vh;
+        display: block;
+    }
+
+    .search {
+        width: 55vw;
+    }
+    
+    .travelDiv {
+        height: 40px;
+    }
+
+    .travel {
+        font-size: 30px;
+        height: 50%;
+        margin: 0;
+    }
+
+    .mobileBlur {
+        height: 30px;
+        width: 120px;
+    }
+    
+    .lorem {
+        font-size: 20px;
+        margin: 0;
+    }
+
+    .mobileButon1, .mobileButon2 {
+        height: 1.9rem;
+        width: 1.9rem;
+    }
+
+    .mobileIcons {
+        font-size: 20px;
+        height: 1.6rem;
+        width: 1.6rem;
+    }
+
+    .mobileIcons2 {
+        height: 14px;
+        width: 14px;
+    }
+
+    .div2 {
+        height: 80vh;
+    }
+
+    .search {
+        min-height: 30px;
+    }
+
+    .paragraf {
+        font-size: 16px;
+        color: white;
+    }
+
+    .riskInfo {
+        padding-top: 15px;
+    }
+    .flag {
+        width: 16%;
+    }
+
+    .map {
+        max-height: 1.5em;
+    }
+
+    .div3 {
+        display: none;
+    }
+
+    .cells {
+        min-height: 7vh;
+    }
+
+    .popup {
+        position: absolute;
+        padding-bottom: 10px;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 80vw;
+    }
+    
+    .popupInfo {
+        margin-bottom: 10px;
+        font-size: 14px;
+    }
+    
+    .popup > img {
+        width: 60px;
+        margin-top: -15%;
+    }
+
+}
+
+
+

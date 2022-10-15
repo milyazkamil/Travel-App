@@ -1,7 +1,10 @@
 [
     {
         "city": {
-            "name": "Andorra",
+            "nameUpperCase": "Andorra",
+            "nameLowerCase": "andorra",
+            "nameUpperCaseTr2": "Andora",
+            "nameLowerCaseTr2": "andora",
             "unit": "Euro",
             "symbol": "€",
             "population": 77265,
@@ -20,7 +23,10 @@
     },
     {
         "city": {
-            "name": "United Arab Emirates",
+            "nameUpperCase": "United Arab Emirates",
+            "nameLowerCase": "united arab emirates",
+            "nameUpperCaseTr": "Birleşik Arap Emirlikleri",
+            "nameLowerCaseTr": "birleşik arap emirlikleri",
             "unit": "Dirham",
             "symbol": "د.إ",
             "population": 9890400,
@@ -38,7 +44,10 @@
     },
     {
         "city": {
-            "name": "Afghanistan",
+            "nameUpperCase": "Afghanistan",
+            "nameLowerCase": "afghanistan",
+            "nameUpperCaseTr": "Afganistan",
+            "nameLowerCaseTr": "afganistan",
             "unit": "Afghani",
             "symbol": "؋",
             "population": 40218234,
@@ -57,7 +66,10 @@
     },
     {
         "city": {
-            "name": "Anguilla",
+            "nameUpperCase": "Anguilla",
+            "nameLowerCase": "anguilla",
+            "nameUpperCaseTr": "Anguilla",
+            "nameLowerCaseTr": "anguilla",
             "unit": "Dollar",
             "symbol": "$",
             "population": 13452,
@@ -75,7 +87,10 @@
     },
     {
         "city": {
-            "name": "Albania",
+            "nameUpperCase": "Albania",
+            "nameLowerCase": "albania",
+            "nameUpperCaseTr": "Arnavutluk",
+            "nameLowerCaseTr": "arnavutluk",
             "unit": "Lek",
             "symbol": "L",
             "population": 2837743,
@@ -93,7 +108,10 @@
     },
     {
         "city": {
-            "name": "Armenia",
+            "nameUpperCase": "Armenia",
+            "nameLowerCase": "armenia",
+            "nameUpperCaseTr": "Ermenistan",
+            "nameLowerCaseTr": "ermenistan",
             "unit": "Dram",
             "symbol": "֏",
             "population": 2963234,
@@ -112,7 +130,10 @@
     },
     {
         "city": {
-            "name": "Angola",
+            "nameUpperCase": "Angola",
+            "nameLowerCase": "angola",
+            "nameUpperCaseTr": "Angola",
+            "nameLowerCaseTr": "angola",
             "unit": "Kwanza",
             "symbol": "Kz",
             "population": 32866268,
@@ -130,7 +151,10 @@
     },
     {
         "city": {
-            "name": "Argentina",
+            "nameUpperCase": "Argentina",
+            "nameLowerCase": "argentina",
+            "nameUpperCaseTr": "Arjantin",
+            "nameLowerCaseTr": "arjantin",
             "unit": "Peso",
             "symbol": "$",
             "population": 45376763,
@@ -149,7 +173,10 @@
     },
     {
         "city": {
-            "name": "Austria",
+            "nameUpperCase": "Austria",
+            "nameLowerCase": "austria",
+            "nameUpperCaseTr": "Avusturya",
+            "nameLowerCaseTr": "avusturya",
             "unit": "Euro",
             "symbol": "€",
             "population": 8917205,
@@ -167,7 +194,10 @@
     },
     {
         "city": {
-            "name": "Australia",
+            "nameUpperCase": "Australia",
+            "nameLowerCase": "australia",
+            "nameUpperCaseTr": "Avustralya",
+            "nameLowerCaseTr": "avustralya",
             "unit": "Dollar",
             "symbol": "$",
             "population": 25687041,
@@ -185,7 +215,10 @@
     },
     {
         "city": {
-            "name": "Aruba",
+            "nameUpperCase": "Aruba",
+            "nameLowerCase": "aruba",
+            "nameUpperCaseTr": "Aruba",
+            "nameLowerCaseTr": "aruba",
             "unit": "Florin",
             "symbol": "ƒ",
             "population": 106766,
@@ -204,7 +237,10 @@
     },
     {
         "city": {
-            "name": "Azerbaijan",
+            "nameUpperCase": "Azerbaijan",
+            "nameLowerCase": "azerbaijan",
+            "nameUpperCaseTr": "Azerbaycan",
+            "nameLowerCaseTr": "azerbaycan",
             "unit": "Manat",
             "symbol": "₼",
             "population": 10110116,
@@ -223,7 +259,10 @@
     },
     {
         "city": {
-            "name": "Bosnia and Herzegovina",
+            "nameUpperCase": "Bosnia and Herzegovina",
+            "nameLowerCase": "bosnia and herzegovina",
+            "nameUpperCaseTr": "Bosna Hersek",
+            "nameLowerCaseTr": "bosna hersek",
             "unit": "Convertible Mark",
             "symbol": "KM",
             "population": 3280815,
@@ -242,7 +281,10 @@
     },
     {
         "city": {
-            "name": "Barbados",
+            "nameUpperCase": "Barbados",
+            "nameLowerCase": "barbados",
+            "nameUpperCaseTr": "Barbados",
+            "nameLowerCaseTr": "barbados",
             "unit": "Dollar",
             "symbol": "$",
             "population": 287371,
@@ -260,7 +302,10 @@
     },
     {
         "city": {
-            "name": "Bangladesh",
+            "nameUpperCase": "Bangladesh",
+            "nameLowerCase": "bangladesh",
+            "nameUpperCaseTr": "Bangladeş",
+            "nameLowerCaseTr": "bangladeş",
             "unit": "Taka",
             "symbol": "৳",
             "population": 164689383,
@@ -278,7 +323,10 @@
     },
     {
         "city": {
-            "name": "Belgium",
+            "nameUpperCase": "Belgium",
+            "nameLowerCase": "belgium",
+            "nameUpperCaseTr": "Belçika",
+            "nameLowerCaseTr": "belçika",
             "unit": "Euro",
             "symbol": "€",
             "population": 11555997,
@@ -297,7 +345,10 @@
     },
     {
         "city": {
-            "name": "Bulgaria",
+            "nameUpperCase": "Bulgaria",
+            "nameLowerCase": "bulgaria",
+            "nameUpperCaseTr": "Bulgaristan",
+            "nameLowerCaseTr": "bulgaristan",
             "unit": "Lev",
             "symbol": "лв",
             "population": 6927288,
@@ -315,7 +366,10 @@
     },
     {
         "city": {
-            "name": "Bahrain",
+            "nameUpperCase": "Bahrain",
+            "nameLowerCase": "bahrain",
+            "nameUpperCaseTr": "Bahreyn",
+            "nameLowerCaseTr": "bahreyn",
             "unit": "Dinar",
             "symbol": ".د.ب",
             "population": 1701583,
@@ -333,7 +387,10 @@
     },
     {
         "city": {
-            "name": "Burundi",
+            "nameUpperCase": "Burundi",
+            "nameLowerCase": "burundi",
+            "nameUpperCaseTr": "Burundi",
+            "nameLowerCaseTr": "burundi",
             "unit": "Franc",
             "symbol": "Fr",
             "population": 11890781,
@@ -352,7 +409,10 @@
     },
     {
         "city": {
-            "name": "Bermuda",
+            "nameUpperCase": "Bermuda",
+            "nameLowerCase": "bermuda",
+            "nameUpperCaseTr": "Bermuda",
+            "nameLowerCaseTr": "bermuda",
             "unit": "Dollar",
             "symbol": "$",
             "population": 63903,
@@ -370,7 +430,10 @@
     },
     {
         "city": {
-            "name": "Brunei",
+            "nameUpperCase": "Brunei",
+            "nameLowerCase": "brunei",
+            "nameUpperCaseTr": "Brunei",
+            "nameLowerCaseTr": "brunei",
             "unit": "Dollar",
             "symbol": "$",
             "population": 437483,
@@ -388,7 +451,10 @@
     },
     {
         "city": {
-            "name": "Bolivia",
+            "nameUpperCase": "Bolivia",
+            "nameLowerCase": "bolivia",
+            "nameUpperCaseTr": "Bolivya",
+            "nameLowerCaseTr": "bolivya",
             "unit": "Boliviano",
             "symbol": "Bs",
             "population": 11673029,
@@ -407,7 +473,10 @@
     },
     {
         "city": {
-            "name": "Brazil",
+            "nameUpperCase": "Brazil",
+            "nameLowerCase": "brazil",
+            "nameUpperCaseTr": "Brezilya",
+            "nameLowerCaseTr": "brezilya",
             "unit": "Real",
             "symbol": "R$",
             "population": 212559409,
@@ -425,7 +494,10 @@
     },
     {
         "city": {
-            "name": "Bahamas",
+            "nameUpperCase": "Bahamas",
+            "nameLowerCase": "bahamas",
+            "nameUpperCaseTr": "Bahamalar",
+            "nameLowerCaseTr": "bahamalar",
             "unit": "Dollar",
             "symbol": "$",
             "population": 393248,
@@ -443,7 +515,10 @@
     },
     {
         "city": {
-            "name": "Belarus",
+            "nameUpperCase": "Belarus",
+            "nameLowerCase": "belarus",
+            "nameUpperCaseTr": "Belarus",
+            "nameLowerCaseTr": "belarus",
             "unit": "Ruble",
             "symbol": "Br",
             "population": 9398861,
@@ -462,7 +537,10 @@
     },
     {
         "city": {
-            "name": "Canada",
+            "nameUpperCase": "Canada",
+            "nameLowerCase": "canada",
+            "nameUpperCaseTr": "Kanada",
+            "nameLowerCaseTr": "kanada",
             "unit": "Dollar",
             "symbol": "$",
             "population": 38005238,
@@ -481,7 +559,10 @@
     },
     {
         "city": {
-            "name": "Central African Republic",
+            "nameUpperCase": "Central African Republic",
+            "nameLowerCase": "central african republic",
+            "nameUpperCaseTr": "Orta Afrika Cumhuriyeti",
+            "nameLowerCaseTr": "orta afrika cumhuriyeti",
             "unit": "Franc",
             "symbol": "Fr",
             "population": 4829764,
@@ -500,7 +581,10 @@
     },
     {
         "city": {
-            "name": "Switzerland",
+            "nameUpperCase": "Switzerland",
+            "nameLowerCase": "switzerland",
+            "nameUpperCaseTr": "İsviçre",
+            "nameLowerCaseTr": "isviçre",
             "unit": "Franc",
             "symbol": "Fr",
             "population": 8654622,
@@ -519,7 +603,10 @@
     },
     {
         "city": {
-            "name": "Chile",
+            "nameUpperCase": "Chile",
+            "nameLowerCase": "chile",
+            "nameUpperCaseTr": "Şili",
+            "nameLowerCaseTr": "şili",
             "unit": "Peso",
             "symbol": "$",
             "population": 19116209,
@@ -537,7 +624,10 @@
     },
     {
         "city": {
-            "name": "Cameroon",
+            "nameUpperCase": "Cameroon",
+            "nameLowerCase": "cameroon",
+            "nameUpperCaseTr": "Kamerun",
+            "nameLowerCaseTr": "kamerun",
             "unit": "Franc",
             "symbol": "Fr",
             "population": 26545864,
@@ -556,7 +646,10 @@
     },
     {
         "city": {
-            "name": "China",
+            "nameUpperCase": "China",
+            "nameLowerCase": "china",
+            "nameUpperCaseTr": "Çin",
+            "nameLowerCaseTr": "çin",
             "unit": "Yuan",
             "symbol": "¥",
             "population": 1402112000,
@@ -574,7 +667,10 @@
     },
     {
         "city": {
-            "name": "Colombia",
+            "nameUpperCase": "Colombia",
+            "nameLowerCase": "colombia",
+            "nameUpperCaseTr": "Kolombiya",
+            "nameLowerCaseTr": "kolombiya",
             "unit": "Peso",
             "symbol": "$",
             "population": 50882884,
@@ -592,7 +688,10 @@
     },
     {
         "city": {
-            "name": "Costa Rica",
+            "nameUpperCase": "Costa Rica",
+            "nameLowerCase": "costa rica",
+            "nameUpperCaseTr": "Kosta Rika",
+            "nameLowerCaseTr": "kosta rika",
             "unit": "Colón",
             "symbol": "₡",
             "population": 5094114,
@@ -610,7 +709,10 @@
     },
     {
         "city": {
-            "name": "Cuba",
+            "nameUpperCase": "Cuba",
+            "nameLowerCase": "cuba",
+            "nameUpperCaseTr": "Küba",
+            "nameLowerCaseTr": "küba",
             "unit": "Peso",
             "symbol": "$",
             "population": 11326616,
@@ -628,7 +730,10 @@
     },
     {
         "city": {
-            "name": "Cyprus",
+            "nameUpperCase": "Cyprus",
+            "nameLowerCase": "cyprus",
+            "nameUpperCaseTr": "Kıbrıs",
+            "nameLowerCaseTr": "kıbrıs",
             "unit": "Euro",
             "symbol": "€",
             "population": 1207361,
@@ -647,7 +752,10 @@
     },
     {
         "city": {
-            "name": "Czechia",
+            "nameUpperCase": "Czechia",
+            "nameLowerCase": "czechia",
+            "nameUpperCaseTr": "Çekya",
+            "nameLowerCaseTr": "çekya",
             "unit": "Koruna",
             "symbol": "Kč",
             "population": 10698896,
@@ -666,7 +774,10 @@
     },
     {
         "city": {
-            "name": "Germany",
+            "nameUpperCase": "Germany",
+            "nameLowerCase": "germany",
+            "nameUpperCaseTr": "Almanya",
+            "nameLowerCaseTr": "almanya",
             "unit": "Euro",
             "symbol": "€",
             "population": 83240525,
@@ -684,7 +795,10 @@
     },
     {
         "city": {
-            "name": "Denmark",
+            "nameUpperCase": "Denmark",
+            "nameLowerCase": "denmark",
+            "nameUpperCaseTr": "Danimarka",
+            "nameLowerCaseTr": "danimarka",
             "unit": "Krone",
             "symbol": "kr",
             "population": 5831404,
@@ -702,7 +816,10 @@
     },
     {
         "city": {
-            "name": "Dominica",
+            "nameUpperCase": "Dominica",
+            "nameLowerCase": "dominica",
+            "nameUpperCaseTr": "Dominika",
+            "nameLowerCaseTr": "dominika",
             "unit": "Dollar",
             "symbol": "$",
             "population": 71991,
@@ -720,7 +837,10 @@
     },
     {
         "city": {
-            "name": "Ecuador",
+            "nameUpperCase": "Ecuador",
+            "nameLowerCase": "ecuador",
+            "nameUpperCaseTr": "Ekvador",
+            "nameLowerCaseTr": "ekvador",
             "unit": "Dollar",
             "symbol": "$",
             "population": 17643060,
@@ -738,7 +858,10 @@
     },
     {
         "city": {
-            "name": "Estonia",
+            "nameUpperCase": "Estonia",
+            "nameLowerCase": "estonia",
+            "nameUpperCaseTr": "Estonya",
+            "nameLowerCaseTr": "estonya",
             "unit": "Euro",
             "symbol": "€",
             "population": 1331057,
@@ -756,7 +879,10 @@
     },
     {
         "city": {
-            "name": "Egypt",
+            "nameUpperCase": "Egypt",
+            "nameLowerCase": "egypt",
+            "nameUpperCaseTr": "Mısır",
+            "nameLowerCaseTr": "mısır",
             "unit": "Pound",
             "symbol": "£",
             "population": 102334403,
@@ -774,7 +900,10 @@
     },
     {
         "city": {
-            "name": "Spain",
+            "nameUpperCase": "Spain",
+            "nameLowerCase": "spain",
+            "nameUpperCaseTr": "İspanya",
+            "nameLowerCaseTr": "ispanya",
             "unit": "Euro",
             "symbol": "€",
             "population": 47351567,
@@ -792,7 +921,10 @@
     },
     {
         "city": {
-            "name": "Ethiopia",
+            "nameUpperCase": "Ethiopia",
+            "nameLowerCase": "ethiopia",
+            "nameUpperCaseTr": "Etiyopya",
+            "nameLowerCaseTr": "etiyopya",
             "unit": "Birr",
             "symbol": "Br",
             "population": 114963583,
@@ -810,7 +942,10 @@
     },
     {
         "city": {
-            "name": "Finland",
+            "nameUpperCase": "Finland",
+            "nameLowerCase": "finland",
+            "nameUpperCaseTr": "Finlandiya",
+            "nameLowerCaseTr": "finlandiya",
             "unit": "Euro",
             "symbol": "€",
             "population": 5530719,
@@ -829,7 +964,10 @@
     },
     {
         "city": {
-            "name": "France",
+            "nameUpperCase": "France",
+            "nameLowerCase": "france",
+            "nameUpperCaseTr": "Fransa",
+            "nameLowerCaseTr": "fransa",
             "unit": "Euro",
             "symbol": "€",
             "population": 67391582,
@@ -847,7 +985,10 @@
     },
     {
         "city": {
-            "name": "United Kingdom",
+            "nameUpperCase": "United Kingdom",
+            "nameLowerCase": "united kingdom",
+            "nameUpperCaseTr": "Birleşik Krallık",
+            "nameLowerCaseTr": "birleşik krallık",
             "unit": "Pound",
             "symbol": "£",
             "population": 67215293,
@@ -865,7 +1006,10 @@
     },
     {
         "city": {
-            "name": "Georgia",
+            "nameUpperCase": "Georgia",
+            "nameLowerCase": "georgia",
+            "nameUpperCaseTr": "Gürcistan",
+            "nameLowerCaseTr": "gürcistan",
             "unit": "Lari",
             "symbol": "₾",
             "population": 3714000,
@@ -883,7 +1027,10 @@
     },
     {
         "city": {
-            "name": "Gibraltar",
+            "nameUpperCase": "Gibraltar",
+            "nameLowerCase": "gibraltar",
+            "nameUpperCaseTr": "Cebelitarık",
+            "nameLowerCaseTr": "cebelitarık",
             "unit": "Pound",
             "symbol": "£",
             "population": 33691,
@@ -901,7 +1048,10 @@
     },
     {
         "city": {
-            "name": "Greenland",
+            "nameUpperCase": "Greenland",
+            "nameLowerCase": "greenland",
+            "nameUpperCaseTr": "Grönland",
+            "nameLowerCaseTr": "grönland",
             "unit": "Krone",
             "symbol": "Kr",
             "population": 56367,
@@ -919,7 +1069,10 @@
     },
     {
         "city": {
-            "name": "Greece",
+            "nameUpperCase": "Greece",
+            "nameLowerCase": "greece",
+            "nameUpperCaseTr": "Yunanistan",
+            "nameLowerCaseTr": "yunanistan",
             "unit": "Euro",
             "symbol": "€",
             "population": 10715549,
@@ -937,7 +1090,10 @@
     },
     {
         "city": {
-            "name": "Hong Kong",
+            "nameUpperCase": "Hong Kong",
+            "nameLowerCase": "hong kong",
+            "nameUpperCaseTr": "Hong Kong",
+            "nameLowerCaseTr": "hong kong",
             "unit": "Dollar",
             "symbol": "$",
             "population": 7500700,
@@ -957,7 +1113,10 @@
     
     {
         "city": {
-            "name": "Hungary",
+            "nameUpperCase": "Hungary",
+            "nameLowerCase": "hungary",
+            "nameUpperCaseTr": "Macaristan",
+            "nameLowerCaseTr": "macaristan",
             "unit": "Forint",
             "symbol": "Ft",
             "population": 9749763,
@@ -975,7 +1134,10 @@
     },
     {
         "city": {
-            "name": "Indonesia",
+            "nameUpperCase": "Indonesia",
+            "nameLowerCase": "indonesia",
+            "nameUpperCaseTr": "Endonezya",
+            "nameLowerCaseTr": "endonezya",
             "unit": "Rupiah",
             "symbol": "Rp",
             "population": 273523621,
@@ -993,7 +1155,10 @@
     },
     {
         "city": {
-            "name": "Ireland",
+            "nameUpperCase": "Ireland",
+            "nameLowerCase": "ireland",
+            "nameUpperCaseTr": "İrlanda",
+            "nameLowerCaseTr": "irlanda",
             "unit": "Euro",
             "symbol": "€",
             "population": 4994724,
@@ -1012,7 +1177,10 @@
     },
     {
         "city": {
-            "name": "India",
+            "nameUpperCase": "India",
+            "nameLowerCase": "india",
+            "nameUpperCaseTr": "Hindistan",
+            "nameLowerCaseTr": "hindistan",
             "unit": "Rupee",
             "symbol": "₹",
             "population": 1380004385,
@@ -1031,7 +1199,10 @@
     },
     {
         "city": {
-            "name": "Iraq",
+            "nameUpperCase": "Iraq",
+            "nameLowerCase": "iraq",
+            "nameUpperCaseTr": "Irak",
+            "nameLowerCaseTr": "ırak",
             "unit": "Dinar",
             "symbol": "ع.د",
             "population": 40222503,
@@ -1050,7 +1221,10 @@
     },
     {
         "city": {
-            "name": "Iran",
+            "nameUpperCase": "Iran",
+            "nameLowerCase": "iran",
+            "nameUpperCaseTr": "İran",
+            "nameLowerCaseTr": "iran",
             "unit": "Rial",
             "symbol": "﷼",
             "population": 83992953,
@@ -1068,7 +1242,10 @@
     },
     {
         "city": {
-            "name": "Iceland",
+            "nameUpperCase": "Iceland",
+            "nameLowerCase": "iceland",
+            "nameUpperCaseTr": "İzlanda",
+            "nameLowerCaseTr": "izlanda",
             "unit": "Króna",
             "symbol": "kr",
             "population": 366425,
@@ -1086,7 +1263,10 @@
     },
     {
         "city": {
-            "name": "Italy",
+            "nameUpperCase": "Italy",
+            "nameLowerCase": "italy",
+            "nameUpperCaseTr": "İtalya",
+            "nameLowerCaseTr": "italya",
             "unit": "Euro",
             "symbol": "€",
             "population": 59554023,
@@ -1104,7 +1284,10 @@
     },
     {
         "city": {
-            "name": "Jamaica",
+            "nameUpperCase": "Jamaica",
+            "nameLowerCase": "jamaica",
+            "nameUpperCaseTr": "Jamaika",
+            "nameLowerCaseTr": "jamaika",
             "unit": "Dollar",
             "symbol": "$",
             "population": 2961161,
@@ -1123,7 +1306,10 @@
     },
     {
         "city": {
-            "name": "Japan",
+            "nameUpperCase": "Japan",
+            "nameLowerCase": "japan",
+            "nameUpperCaseTr": "Japonya",
+            "nameLowerCaseTr": "japonya",
             "unit": "Yen",
             "symbol": "¥",
             "population": 125836021,
@@ -1141,7 +1327,10 @@
     },
     {
         "city": {
-            "name": "Kenya",
+            "nameUpperCase": "Kenya",
+            "nameLowerCase": "kenya",
+            "nameUpperCaseTr": "Kenya",
+            "nameLowerCaseTr": "kenya",
             "unit": "Shilling",
             "symbol": "Sh",
             "population": 53771300,
@@ -1160,7 +1349,10 @@
     },
     {
         "city": {
-            "name": "Kyrgyzstan",
+            "nameUpperCase": "Kyrgyzstan",
+            "nameLowerCase": "kyrgyzstan",
+            "nameUpperCaseTr": "Kırgızistan",
+            "nameLowerCaseTr": "kırgızistan",
             "unit": "Som",
             "symbol": "c",
             "population": 6591600,
@@ -1179,7 +1371,10 @@
     },
     {
         "city": {
-            "name": "North Korea",
+            "nameUpperCase": "North Korea",
+            "nameLowerCase": "north korea",
+            "nameUpperCaseTr": "Kuzey Kore",
+            "nameLowerCaseTr": "kuzey kore",
             "unit": "Won",
             "symbol": "₩",
             "population": 25778815,
@@ -1197,7 +1392,10 @@
     },
     {
         "city": {
-            "name": "South Korea",
+            "nameUpperCase": "South Korea",
+            "nameLowerCase": "south korea",
+            "nameUpperCaseTr": "Güney Kore",
+            "nameLowerCaseTr": "güney kore",
             "unit": "Won",
             "symbol": "₩",
             "population": 51780579,
@@ -1215,7 +1413,10 @@
     },
     {
         "city": {
-            "name": "Kuwait",
+            "nameUpperCase": "Kuwait",
+            "nameLowerCase": "kuwait",
+            "nameUpperCaseTr": "Kuveyt",
+            "nameLowerCaseTr": "kuveyt",
             "unit": "Dinar",
             "symbol": "د.ك",
             "population": 4270563,
@@ -1233,7 +1434,10 @@
     },
     {
         "city": {
-            "name": "Kazakhstan",
+            "nameUpperCase": "Kazakhstan",
+            "nameLowerCase": "kazakhstan",
+            "nameUpperCaseTr": "Kazakistan",
+            "nameLowerCaseTr": "kazakistan",
             "unit": "Tenge",
             "symbol": "₸",
             "population": 18754440,
@@ -1252,7 +1456,10 @@
     },
     {
         "city": {
-            "name": "Lebanon",
+            "nameUpperCase": "Lebanon",
+            "nameLowerCase": "lebanon",
+            "nameUpperCaseTr": "Lübnan",
+            "nameLowerCaseTr": "lübnan",
             "unit": "Pound",
             "symbol": "ل.ل",
             "population": 6825442,
@@ -1271,7 +1478,10 @@
     },
     {
         "city": {
-            "name": "Lithuania",
+            "nameUpperCase": "Lithuania",
+            "nameLowerCase": "lithuania",
+            "nameUpperCaseTr": "Litvanya",
+            "nameLowerCaseTr": "litvanya",
             "unit": "Euro",
             "symbol": "€",
             "population": 2794700,
@@ -1289,7 +1499,10 @@
     },
     {
         "city": {
-            "name": "Luxembourg",
+            "nameUpperCase": "Luxembourg",
+            "nameLowerCase": "luxembourg",
+            "nameUpperCaseTr": "Lüksemburg",
+            "nameLowerCaseTr": "lüksemburg",
             "unit": "Euro",
             "symbol": "€",
             "population": 632275,
@@ -1308,7 +1521,10 @@
     },
     {
         "city": {
-            "name": "Latvia",
+            "nameUpperCase": "Latvia",
+            "nameLowerCase": "latvia",
+            "nameUpperCaseTr": "Letonya",
+            "nameLowerCaseTr": "letonya",
             "unit": "Euro",
             "symbol": "€",
             "population": 1901548,
@@ -1326,7 +1542,10 @@
     },
     {
         "city": {
-            "name": "Libya",
+            "nameUpperCase": "Libya",
+            "nameLowerCase": "libya",
+            "nameUpperCaseTr": "Libya",
+            "nameLowerCaseTr": "libya",
             "unit": "Dinar",
             "symbol": "ل.د",
             "population": 6871287,
@@ -1344,7 +1563,10 @@
     },
     {
         "city": {
-            "name": "Monaco",
+            "nameUpperCase": "Monaco",
+            "nameLowerCase": "monaco",
+            "nameUpperCaseTr": "Monako",
+            "nameLowerCaseTr": "monako",
             "unit": "Euro",
             "symbol": "€",
             "population": 39244,
@@ -1362,7 +1584,10 @@
     },
     {
         "city": {
-            "name": "Moldova",
+            "nameUpperCase": "Moldova",
+            "nameLowerCase": "moldova",
+            "nameUpperCaseTr": "Moldova",
+            "nameLowerCaseTr": "moldova",
             "unit": "Leu",
             "symbol": "L",
             "population": 2617820,
@@ -1380,7 +1605,10 @@
     },
     {
         "city": {
-            "name": "Madagascar",
+            "nameUpperCase": "Madagascar",
+            "nameLowerCase": "madagascar",
+            "nameUpperCaseTr": "Madagaskar",
+            "nameLowerCaseTr": "madagaskar",
             "unit": "Ariary",
             "symbol": "Ar",
             "population": 27691019,
@@ -1399,7 +1627,10 @@
     },
     {
         "city": {
-            "name": "Mongolia",
+            "nameUpperCase": "Mongolia",
+            "nameLowerCase": "mongolia",
+            "nameUpperCaseTr": "Moğolistan",
+            "nameLowerCaseTr": "moğolistan",
             "unit": "Tögrög",
             "symbol": "₮",
             "population": 3278292,
@@ -1417,7 +1648,10 @@
     },
     {
         "city": {
-            "name": "Maldives",
+            "nameUpperCase": "Maldives",
+            "nameLowerCase": "maldives",
+            "nameUpperCaseTr": "Maldivler",
+            "nameLowerCaseTr": "maldivler",
             "unit": "Rufiyaa",
             "symbol": "ރ",
             "population": 540542,
@@ -1435,7 +1669,10 @@
     },
     {
         "city": {
-            "name": "Mexico",
+            "nameUpperCase": "Mexico",
+            "nameLowerCase": "mexico",
+            "nameUpperCaseTr": "Meksika",
+            "nameLowerCaseTr": "meksika",
             "unit": "Peso",
             "symbol": "$",
             "population": 128932753,
@@ -1453,7 +1690,10 @@
     },
     {
         "city": {
-            "name": "Malaysia",
+            "nameUpperCase": "Malaysia",
+            "nameLowerCase": "malaysia",
+            "nameUpperCaseTr": "Malezya",
+            "nameLowerCaseTr": "malezya",
             "unit": "Ringgit",
             "symbol": "RM",
             "population": 32365998,
@@ -1472,7 +1712,10 @@
     },
     {
         "city": {
-            "name": "Netherlands",
+            "nameUpperCase": "Netherlands",
+            "nameLowerCase": "netherlands",
+            "nameUpperCaseTr": "Hollanda",
+            "nameLowerCaseTr": "hollanda",
             "unit": "Euro",
             "symbol": "€",
             "population": 16655799,
@@ -1490,7 +1733,10 @@
     },
     {
         "city": {
-            "name": "Norway",
+            "nameUpperCase": "Norway",
+            "nameLowerCase": "norway",
+            "nameUpperCaseTr": "Norveç",
+            "nameLowerCaseTr": "norveç",
             "unit": "Krone",
             "symbol": "kr",
             "population": 5379475,
@@ -1509,7 +1755,10 @@
     },
     {
         "city": {
-            "name": "New Zealand",
+            "nameUpperCase": "New Zealand",
+            "nameLowerCase": "new zealand",
+            "nameUpperCaseTr": "Yeni Zelanda",
+            "nameLowerCaseTr": "yeni zelanda",
             "unit": "Dollar",
             "symbol": "$",
             "population": 5084300,
@@ -1528,7 +1777,10 @@
     },
     {
         "city": {
-            "name": "Peru",
+            "nameUpperCase": "Peru",
+            "nameLowerCase": "peru",
+            "nameUpperCaseTr": "Peru",
+            "nameLowerCaseTr": "peru",
             "unit": "Sol",
             "symbol": "S/",
             "population": 32971846,
@@ -1547,7 +1799,10 @@
     },
     {
         "city": {
-            "name": "Philippines",
+            "nameUpperCase": "Philippines",
+            "nameLowerCase": "philippines",
+            "nameUpperCaseTr": "Filipinler",
+            "nameLowerCaseTr": "filipinler",
             "unit": "Peso",
             "symbol": "₱",
             "population": 109581085,
@@ -1566,7 +1821,10 @@
     },
     {
         "city": {
-            "name": "Pakistan",
+            "nameUpperCase": "Pakistan",
+            "nameLowerCase": "pakistan",
+            "nameUpperCaseTr": "Pakistan",
+            "nameLowerCaseTr": "pakistan",
             "unit": "Rupee",
             "symbol": "₨",
             "population": 220892331,
@@ -1585,7 +1843,10 @@
     },
     {
         "city": {
-            "name": "Poland",
+            "nameUpperCase": "Poland",
+            "nameLowerCase": "poland",
+            "nameUpperCaseTr": "Polonya",
+            "nameLowerCaseTr": "polonya",
             "unit": "Złoty",
             "symbol": "zł",
             "population": 37950802,
@@ -1603,7 +1864,10 @@
     },
     {
         "city": {
-            "name": "Puerto Rico",
+            "nameUpperCase": "Puerto Rico",
+            "nameLowerCase": "puerto rico",
+            "nameUpperCaseTr": "Porto Riko",
+            "nameLowerCaseTr": "porto riko",
             "unit": "Dollar",
             "symbol": "$",
             "population": 3194034,
@@ -1622,7 +1886,10 @@
     },
     {
         "city": {
-            "name": "Palestine",
+            "nameUpperCase": "Palestine",
+            "nameLowerCase": "palestine",
+            "nameUpperCaseTr": "Filistin",
+            "nameLowerCaseTr": "filistin",
             "unit": "Pound",
             "symbol": "E£",
             "population": 4803269,
@@ -1640,7 +1907,10 @@
     },
     {
         "city": {
-            "name": "Portugal",
+            "nameUpperCase": "Portugal",
+            "nameLowerCase": "portugal",
+            "nameUpperCaseTr": "Portekiz",
+            "nameLowerCaseTr": "portekiz",
             "unit": "Euro",
             "symbol": "€",
             "population": 10305564,
@@ -1658,7 +1928,10 @@
     },
     {
         "city": {
-            "name": "Qatar",
+            "nameUpperCase": "Qatar",
+            "nameLowerCase": "qatar",
+            "nameUpperCaseTr": "Katar",
+            "nameLowerCaseTr": "katar",
             "unit": "Riyal",
             "symbol": "ر.ق",
             "population": 2881060,
@@ -1676,7 +1949,10 @@
     },
     {
         "city": {
-            "name": "Romania",
+            "nameUpperCase": "Romania",
+            "nameLowerCase": "romania",
+            "nameUpperCaseTr": "Romanya",
+            "nameLowerCaseTr": "romanya",
             "unit": "Leu",
             "symbol": "lei",
             "population": 19286123,
@@ -1694,7 +1970,10 @@
     },
     {
         "city": {
-            "name": "Russia",
+            "nameUpperCase": "Russia",
+            "nameLowerCase": "russia",
+            "nameUpperCaseTr": "Rusya",
+            "nameLowerCaseTr": "rusya",
             "unit": "Ruble",
             "symbol": "₽",
             "population": 144104080,
@@ -1712,7 +1991,10 @@
     },
     {
         "city": {
-            "name": "Saudi Arabia",
+            "nameUpperCase": "Saudi Arabia",
+            "nameLowerCase": "saudi arabia",
+            "nameUpperCaseTr": "Suudi Arabistan",
+            "nameLowerCaseTr": "suudi arabistan",
             "unit": "Riyal",
             "symbol": "ر.س",
             "population": 34813867,
@@ -1730,7 +2012,10 @@
     },
     {
         "city": {
-            "name": "Sweden",
+            "nameUpperCase": "Sweden",
+            "nameLowerCase": "sweden",
+            "nameUpperCaseTr": "İsveç",
+            "nameLowerCaseTr": "isveç",
             "unit": "Krona",
             "symbol": "kr",
             "population": 10353442,
@@ -1748,7 +2033,10 @@
     },
     {
         "city": {
-            "name": "Singapore",
+            "nameUpperCase": "Singapore",
+            "nameLowerCase": "singapore",
+            "nameUpperCaseTr": "Singapur",
+            "nameLowerCaseTr": "singapur",
             "unit": "Dollar",
             "symbol": "$",
             "population": 5685807,
@@ -1767,7 +2055,10 @@
     },
     {
         "city": {
-            "name": "Slovenia",
+            "nameUpperCase": "Slovenia",
+            "nameLowerCase": "slovenia",
+            "nameUpperCaseTr": "Slovenya",
+            "nameLowerCaseTr": "slovenya",
             "unit": "Euro",
             "symbol": "€",
             "population": 2100126,
@@ -1785,7 +2076,10 @@
     },
     {
         "city": {
-            "name": "Slovakia",
+            "nameUpperCase": "Slovakia",
+            "nameLowerCase": "slovakia",
+            "nameUpperCaseTr": "Slovakya",
+            "nameLowerCaseTr": "slovakya",
             "unit": "Euro",
             "symbol": "€",
             "population": 5458827,
@@ -1803,7 +2097,10 @@
     },
     {
         "city": {
-            "name": "Somalia",
+            "nameUpperCase": "Somalia",
+            "nameLowerCase": "somalia",
+            "nameUpperCaseTr": "Somali",
+            "nameLowerCaseTr": "somali",
             "unit": "Shilling",
             "symbol": "Sh",
             "population": 15893219,
@@ -1822,7 +2119,10 @@
     },
     {
         "city": {
-            "name": "Syria",
+            "nameUpperCase": "Syria",
+            "nameLowerCase": "syria",
+            "nameUpperCaseTr": "Suriye",
+            "nameLowerCaseTr": "suriye",
             "unit": "Pound",
             "symbol": "£",
             "population": 17500657,
@@ -1840,7 +2140,10 @@
     },
     {
         "city": {
-            "name": "Thailand",
+            "nameUpperCase": "Thailand",
+            "nameLowerCase": "thailand",
+            "nameUpperCaseTr": "Tayland",
+            "nameLowerCaseTr": "tayland",
             "unit": "Baht",
             "symbol": "฿",
             "population": 69799978,
@@ -1858,7 +2161,10 @@
     },
     {
         "city": {
-            "name": "Tajikistan",
+            "nameUpperCase": "Tajikistan",
+            "nameLowerCase": "tajikistan",
+            "nameUpperCaseTr": "Tacikistan",
+            "nameLowerCaseTr": "tacikistan",
             "unit": "Somoni",
             "symbol": "SM",
             "population": 9537642,
@@ -1877,7 +2183,10 @@
     },
     {
         "city": {
-            "name": "Turkmenistan",
+            "nameUpperCase": "Turkmenistan",
+            "nameLowerCase": "turkmenistan",
+            "nameUpperCaseTr": "Türkmenistan",
+            "nameLowerCaseTr": "türkmenistan",
             "unit": "Manat",
             "symbol": "m",
             "population": 6031187,
@@ -1896,7 +2205,10 @@
     },
     {
         "city": {
-            "name": "Turkey",
+            "nameUpperCase": "Turkey",
+            "nameLowerCase": "turkey",
+            "nameUpperCaseTr": "Türkiye",
+            "nameLowerCaseTr": "türkiye",
             "unit": "Lira",
             "symbol": "₺",
             "population": 84339067,
@@ -1914,7 +2226,10 @@
     },
     {
         "city": {
-            "name": "Taiwan",
+            "nameUpperCase": "Taiwan",
+            "nameLowerCase": "taiwan",
+            "nameUpperCaseTr": "Tayvan",
+            "nameLowerCaseTr": "tayvan",
             "unit": "Dollar",
             "symbol": "$",
             "population": 23503349,
@@ -1932,7 +2247,10 @@
     },
     {
         "city": {
-            "name": "Ukraine",
+            "nameUpperCase": "Ukraine",
+            "nameLowerCase": "ukraine",
+            "nameUpperCaseTr": "Ukrayna",
+            "nameLowerCaseTr": "ukrayna",
             "unit": "Hryvnia",
             "symbol": "₴",
             "population": 44134693,
@@ -1950,7 +2268,10 @@
     },
     {
         "city": {
-            "name": "United States",
+            "nameUpperCase": "United States",
+            "nameLowerCase": "united states",
+            "nameUpperCaseTr": "Amerika",
+            "nameLowerCaseTr": "amerika",
             "unit": "Dollar",
             "symbol": "$",
             "population": 329484123,
@@ -1968,7 +2289,10 @@
     },
     {
         "city": {
-            "name": "Uruguay",
+            "nameUpperCase": "Uruguay",
+            "nameLowerCase": "uruguay",
+            "nameUpperCaseTr": "Uruguay",
+            "nameLowerCaseTr": "uruguay",
             "unit": "Peso",
             "symbol": "$",
             "population": 3473727,
@@ -1986,7 +2310,10 @@
     },
     {
         "city": {
-            "name": "Uzbekistan",
+            "nameUpperCase": "Uzbekistan",
+            "nameLowerCase": "uzbekistan",
+            "nameUpperCaseTr": "Özbekistan",
+            "nameLowerCaseTr": "özbekistan",
             "unit": "Som",
             "symbol": "so'm",
             "population": 34232050,
@@ -2005,7 +2332,10 @@
     },
     {
         "city": {
-            "name": "Vietnam",
+            "nameUpperCase": "Vietnam",
+            "nameLowerCase": "vietnam",
+            "nameUpperCaseTr": "Vietnam",
+            "nameLowerCaseTr": "vietnam",
             "unit": "Dồng",
             "symbol": "₫",
             "population": 97338583,
@@ -2014,7 +2344,7 @@
             "region": "South-Eastern Asia",
             "message": "Vietnam has a current risk level of 2.7 (out of 5). We advise: Use some caution when travelling Vietnam.",
             "languages": [
-                "Vietnamese"
+                "VietnameUpperCasese"
             ],
             "googleMaps": "https://goo.gl/maps/PCpVt9WzdJ9A9nEZ9",
             "flag": {
@@ -2024,7 +2354,10 @@
     },
     {
         "city": {
-            "name": "Kosovo",
+            "nameUpperCase": "Kosovo",
+            "nameLowerCase": "kosovo",
+            "nameUpperCaseTr": "Kosova",
+            "nameLowerCaseTr": "kosova",
             "unit": "Euro",
             "symbol": "€",
             "population": 1775378,
@@ -2044,7 +2377,10 @@
     },
     {
         "city": {
-            "name": "Yemen",
+            "nameUpperCase": "Yemen",
+            "nameLowerCase": "yemen",
+            "nameUpperCaseTr": "Yemen",
+            "nameLowerCaseTr": "yemen",
             "unit": "Rial",
             "symbol": "﷼",
             "population": 29825968,
@@ -2063,7 +2399,10 @@
     },
     {
         "city": {
-            "name": "Zambia",
+            "nameUpperCase": "Zambia",
+            "nameLowerCase": "zambia",
+            "nameUpperCaseTr": "Zambiya",
+            "nameLowerCaseTr": "zambiya",
             "unit": "Kwacha",
             "symbol": "ZK",
             "population": 18383956,
@@ -2082,7 +2421,10 @@
     },
     {
         "city": {
-            "name": "Zimbabwe",
+            "nameUpperCase": "Zimbabwe",
+            "nameLowerCase": "zimbabwe",
+            "nameUpperCaseTr": "Zimbabve",
+            "nameLowerCaseTr": "zimbabve",
             "unit": "Dollar",
             "symbol": "$",
             "population": 14862927,
