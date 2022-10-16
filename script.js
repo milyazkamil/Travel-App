@@ -85,14 +85,13 @@ async function getInformation() {
                          riskInfo.innerText = `Risk Level: ${element.city.message}`;
                          unitInfo.innerText = `Currency Unit: ${element.city.unit} ${element.city.symbol}`;
                          if(element.city.languages[1] == undefined) {
-                              languagesInfo.innerText = `Languages: ${element.city.languages[0]}`;
+                              languagesInfo.innerText = `Language: ${element.city.languages[0]}`;
                          } else {
                               languagesInfo.innerText = `Languages: ${element.city.languages[0]} , ${element.city.languages[1]}`;
                          }
                          regionInfo.innerText = `Region: ${element.city.region}`;
                          mapInfo.href = `${element.city.googleMaps}`;
                          populationInfo.innerText = `Population: ${element.city.population.toLocaleString("en-US")}`;
-                         flagInfo.innerText = `Flag: ${element.city.flag.png}`;
                          const flagUrl = element.city.flag.png;
                          flagInfo.src = flagUrl;
                     }

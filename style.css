@@ -216,10 +216,10 @@ img {
     z-index: 1;
     border-radius: 20px;
     padding-top: 10px;
-    background: rgba( 0, 255, 196, 0.15 );
     box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
-    backdrop-filter: blur( 3.5px );
-    -webkit-backdrop-filter: blur( 3.5px );
+    background: rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur( 2.5px );
+    -webkit-backdrop-filter: blur( 2.5px );
     border: 1px solid rgba( 255, 255, 255, 0.18 );
 }
 .icon {
@@ -230,6 +230,11 @@ img {
 .map {
     text-decoration: none;
 }
+
+.map:hover {
+    color: rgb(0, 255, 251);
+}
+
 .icons {
     font-size: 40px;
     color: white;
